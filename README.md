@@ -25,6 +25,7 @@
 - [小程序相关](#小程序相关)
 - [性能分析工具](#性能分析工具)
 - [包管理工具](#包管理工具)
+- [前端编码规范](#前端编码规范)
 - [项目集成及自动化](#项目集成及自动化)
 - [git 仓库](#git-仓库)
 - [在线工具](#在线工具)
@@ -241,6 +242,13 @@
 - [npmjs](http://npmjs.com)
 - [yarn](https://yarn.bootcss.com)
 - [bower](https://bower.io)
+
+## 前端编码规范
+
+- [Airbnb 的 JavaScript 编码规范](https://github.com/airbnb/javascript)
+- [JavaScript Standard Style](https://github.com/feross/standard)
+- [clean-code-javascript - javascript 编码风格指南](https://github.com/ryanmcdermott/clean-code-javascript)
+- [spec](https://github.com/ecomfe/spec/) -  百度前端团队代码规范
 
 ## 项目集成及自动化
 
