@@ -8,7 +8,8 @@
 ## 目录
 
 - [JavaScript 框架](#javascript-框架)
-- [JavaScript 库](javascript-库)
+- [JavaScript 库](#javascript-库)
+- [动画库](#动画库)
 - [UI 框架](#ui-框架)
   - [基于 Vue.js](#基于-vuejs)
   - [基于 react](#基于-react)
@@ -113,6 +114,12 @@
 - [tui.calendar](https://github.com/nhnent/tui.calendar) 日历库
 - [em-cookie](https://github.com/em-fe/em-cookie) cookie 的处理
 - [EM-NORMALIZE](https://github.com/em-fe/EM-NORMALIZE) 样式重置
+
+## 动画库
+
+- [velocity](https://github.com/julianshapiro/velocity)
+- [GreenSock-JS](https://github.com/greensock/GreenSock-JS/)
+- [tween.js](https://github.com/tweenjs/tween.js)
 
 ## UI 框架
 
