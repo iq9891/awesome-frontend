@@ -9,6 +9,8 @@
 
 - [JavaScript 框架](#javascript-框架)
 - [JavaScript 库](#javascript-库)
+  - [工具函数类](#工具函数类)
+  - [调试工具](#调试工具)
 - [动画库](#动画库)
 - [UI 框架](#ui-框架)
   - [基于 Vue.js](#基于-vuejs)
@@ -102,18 +104,25 @@
 ## JavaScript 库
 
 - [jquery](https://github.com/jquery/jquery)
-- [lodash](https://github.com/lodash/lodash/)
 - [zepto](https://github.com/madrobby/zepto/)
-- [underscore.js](https://github.com/jashkenas/underscore)
 - [immutable-js 数据集控制](https://github.com/facebook/immutable-js)
 - [sprint](https://github.com/bendc/sprint)
-- [lazy.js](https://github.com/dtao/lazy.js) 像 underscore.js 的工具库
-- [dayjs](https://github.com/xx45/dayjs?utm_source=gold_browser_extension) 操作日期库
 - [dayjs](https://github.com/xx45/dayjs?utm_source=gold_browser_extension) 在javascript中解析，验证，操作和显示日期，类似 moment
-- [moment](https://github.com/moment/moment) 在javascript中解析，验证，操作和显示日期
 - [tui.calendar](https://github.com/nhnent/tui.calendar) 日历库
 - [em-cookie](https://github.com/em-fe/em-cookie) cookie 的处理
 - [EM-NORMALIZE](https://github.com/em-fe/EM-NORMALIZE) 样式重置
+
+### 工具函数类
+- [lodash](https://github.com/lodash/lodash/)
+- [moment](https://github.com/moment/moment) 在javascript中解析，验证，操作和显示日期
+- [lazy.js](https://github.com/dtao/lazy.js) 像 underscore.js 的工具库
+- [licia](https://github.com/liriliri/licia)
+- [underscore.js](https://github.com/jashkenas/underscore)
+
+### 调试工具
+- [eruda](https://github.com/liriliri/eruda)
+- [vConsole](https://github.com/Tencent/vConsole)
+
 
 ## 动画库
 
