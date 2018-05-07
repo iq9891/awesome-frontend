@@ -89,6 +89,8 @@
   - [JavaScript](#javascript)
   - [Shell](#shell)
   - [读书笔记及其它](#读书笔记及其它)
+- [前端面试](#前端面试)
+  - [Vue.js](#vuejs)
 
 ----
 
@@ -915,3 +917,9 @@
 * [深入理解并行编程](http://ifeve.com/perfbook/)
 * [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
 * [Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)
+
+## 前端面试
+
+### Vue.js
+
+- [面试官: 实现双向绑定Proxy比defineproperty优劣如何?](https://juejin.im/post/5acd0c8a6fb9a028da7cdfaf)
