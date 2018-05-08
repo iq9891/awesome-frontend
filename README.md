@@ -20,7 +20,9 @@
 - [前端游戏框架](#前端游戏框架)
 - [打包工具](#打包工具)
 - [前端脚手架](#前端脚手架)
-- [Node.js 框架](#nodejs-框架)
+- [Node.js 方面](#nodejs-方面)
+  - [框架](#框架)
+  - [好用的插件](#好用的插件)
 - [可视化插件](#可视化插件)
 - [CSS 处理器](#css-处理器)
 - [测试相关](#测试相关)
@@ -30,7 +32,10 @@
 - [包管理工具](#包管理工具)
 - [前端编码规范](#前端编码规范)
 - [项目集成及自动化](#项目集成及自动化)
-- [git 仓库](#git-仓库)
+- [git 版本控制](#git-版本控制)
+  - [仓库](#仓库)
+  - [git 工具](#git-工具)
+  - [使用手册](#使用手册)
 - [在线工具](#在线工具)
   - [在线编程](#在线编程)
   - [转换](#转换)
@@ -90,6 +95,7 @@
   - [Shell](#shell)
   - [读书笔记及其它](#读书笔记及其它)
 - [前端面试](#前端面试)
+  - [面试教科书](#面试教科书)
   - [Vue.js](#vuejs)
 
 ----
@@ -103,6 +109,8 @@
 - [Polymer - Google发布的Web组件构建框架](https://www.polymer-project.org)
 - [cyclejs](https://github.com/cyclejs/cyclejs/)
 
+[⬆️ 返回首页](#目录)
+
 ## JavaScript 库
 
 - [jquery](https://github.com/jquery/jquery)
@@ -114,6 +122,8 @@
 - [em-cookie](https://github.com/em-fe/em-cookie) cookie 的处理
 - [EM-NORMALIZE](https://github.com/em-fe/EM-NORMALIZE) 样式重置
 
+[⬆️ 返回首页](#目录)
+
 ### 工具函数类
 - [lodash](https://github.com/lodash/lodash/)
 - [moment](https://github.com/moment/moment) 在javascript中解析，验证，操作和显示日期
@@ -121,16 +131,22 @@
 - [licia](https://github.com/liriliri/licia)
 - [underscore.js](https://github.com/jashkenas/underscore)
 
+[⬆️ 返回首页](#目录)
+
 ### 调试工具
 - [eruda](https://github.com/liriliri/eruda)
 - [vConsole](https://github.com/Tencent/vConsole)
+- [vue-pretty-logger](https://github.com/TaroXin/vue-pretty-logger) 一个还在持续更新的本地 log 输出插件
 
+[⬆️ 返回首页](#目录)
 
 ## 动画库
 
 - [velocity](https://github.com/julianshapiro/velocity)
 - [GreenSock-JS](https://github.com/greensock/GreenSock-JS/)
 - [tween.js](https://github.com/tweenjs/tween.js)
+
+[⬆️ 返回首页](#目录)
 
 ## UI 框架
 
@@ -157,6 +173,8 @@
  - [vuecidity](https://bitbucket.org/acidmartin/vuecidity)
  - [em-fe](https://github.com/em-fe/EM-FE)
 
+[⬆️ 返回首页](#目录)
+
 ### 基于 react
 - [Ant Design](https://ant.design/)
 - [element-react](https://github.com/eleme/element-react)
@@ -164,15 +182,21 @@
 - [Material UI](https://github.com/callemall/material-ui)
 - [Office UI Fabric - 微软 Office 前端团队的框架](https://github.com/OfficeDev/Office-UI-Fabric)
 
+[⬆️ 返回首页](#目录)
+
 ### 基于 angular
 - [element-angular](https://github.com/ElemeFE/element-angular)
 - [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd)
 - [Ng Alain](https://github.com/cipchk/ng-alain/)
 
+[⬆️ 返回首页](#目录)
+
 ### 基于 jquery
 - [Amaze UI](http://amazeui.org/)
 - [Semantic UI](https://github.com/semantic-org/semantic-ui)
 - [Materialize](https://github.com/Dogfalo/materialize)
+
+[⬆️ 返回首页](#目录)
 
 ## 前端游戏框架
 - [cocos2d-html5](https://github.com/cocos2d/cocos2d-html5)
@@ -188,6 +212,8 @@
 - [phaser - 一个快速、免费、开源的 HTML5 游戏框架](https://github.com/photonstorm/phaser/)
 - [lufylegend.js](https://github.com/lufylegend/lufylegend.js)
 
+[⬆️ 返回首页](#目录)
+
 ## 打包工具
 
 - [webpack](https://github.com/webpack/webpack)
@@ -197,6 +223,8 @@
 - [rollup](https://github.com/rollup/rollup)
 - [browserify](http://browserify.org)
 
+[⬆️ 返回首页](#目录)
+
 ## 前端脚手架
 
 - [Angular CLI](https://github.com/angular/angular-cli)
@@ -205,7 +233,11 @@
 - [yeoman](https://github.com/yeoman/yeoman)
 - [fecli](https://github.com/fe6/fecli)
 
-## Node.js 框架
+[⬆️ 返回首页](#目录)
+
+## Node.js 方面
+
+### 框架
 
 - [express](https://github.com/expressjs/express)
 - [koa](https://github.com/koajs/koa)
@@ -214,6 +246,17 @@
 - [thinkjs](https://github.com/thinkjs/thinkjs)
 - [nest](https://github.com/nestjs/nest)
 
+[⬆️ 返回首页](#目录)
+
+### 好用的插件
+
+- [ngrok](https://github.com/bubenshchykov/ngrok) 本地 https 工具
+- [http-server](https://github.com/indexzero/http-server) 零配置的命令行 http 服务器
+- [http-serve](https://github.com/indexzero/http-serve) 零配置的命令行 http 服务器
+- [nvm](https://github.com/creationix/nvm) node 版本控制
+
+[⬆️ 返回首页](#目录)
+
 ## 可视化插件
 
 - [echarts](https://github.com/ecomfe/echarts)
@@ -221,11 +264,15 @@
 - [f2 移动端可视化图表](https://github.com/antvis/f2)
 - [d3](https://github.com/d3/d3)
 
+[⬆️ 返回首页](#目录)
+
 ## CSS 处理器
 - [Sass](https://sass-guidelin.es/zh/)
 - [less](http://lesscss.org/)
 - [stylus](http://www.zhangxinxu.com/jq/stylus/)
 - [postcss](http://postcss.org/)
+
+[⬆️ 返回首页](#目录)
 
 ## 测试相关
 
@@ -240,20 +287,28 @@
 - [expect 断言](https://github.com/mjackson/expect)
 - [should.js](https://github.com/shouldjs/should.js)
 
+[⬆️ 返回首页](#目录)
+
 ## 状态管理
 
 - [redux](https://github.com/reactjs/redux)
 - [immutable-js 数据集控制](https://github.com/facebook/immutable-js)
 - [vuex](https://vuex.vuejs.org)
 
+[⬆️ 返回首页](#目录)
+
 ## 小程序相关
 
 - [mpvue 开发框架](https://github.com/Meituan-Dianping/mpvue)
 - [wepy 组件库](https://github.com/Tencent/wepy)
 
+[⬆️ 返回首页](#目录)
+
 ## 性能分析工具
 
 - [analyze-css](https://github.com/macbre/analyze-css) CSS选择器的复杂性和性能分析器
+
+[⬆️ 返回首页](#目录)
 
 ## 包管理工具
 
@@ -261,12 +316,16 @@
 - [yarn](https://yarn.bootcss.com)
 - [bower](https://bower.io)
 
+[⬆️ 返回首页](#目录)
+
 ## 前端编码规范
 
 - [Airbnb 的 JavaScript 编码规范](https://github.com/airbnb/javascript)
 - [JavaScript Standard Style](https://github.com/feross/standard)
 - [clean-code-javascript - javascript 编码风格指南](https://github.com/ryanmcdermott/clean-code-javascript)
 - [spec](https://github.com/ecomfe/spec/) -  百度前端团队代码规范
+
+[⬆️ 返回首页](#目录)
 
 ## 项目集成及自动化
 
@@ -276,10 +335,47 @@
 - [snyk.io 前端依赖检测](https://snyk.io)
 - [codecov.io 测试覆盖率报告](https://codecov.io)
 
-## git 仓库
+[⬆️ 返回首页](#目录)
+
+## git 版本控制
+
+### 仓库
+
 - [github](https://github.com)
 - [bitbucket](https://bitbucket.org/)
 - [gitee](https://gitee.com)
+
+[⬆️ 返回首页](#目录)
+
+### git 工具
+
+- [tig](https://github.com/jonas/tig) commit 信息查看工具
+- [cz-cli](https://github.com/commitizen/cz-cli) commit 信息规范化管理工具
+- [gitmoji-cli](https://github.com/carloscuesta/gitmoji) gitmoji 图标
+
+[⬆️ 返回首页](#目录)
+
+### 使用手册
+
+* [git 教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+* [git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+* [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
+* [git 参考手册](http://gitref.justjavac.com)
+* [Pro git](http://git-scm.com/book/zh/v2)
+* [Pro git 中文版](https://www.gitbook.com/book/0532/progit/details) (整理在gitbook上)
+* [git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
+* [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
+* [Git权威指南](http://www.worldhello.net/gotgit/)
+* [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
+* [Mercurial 使用教程](https://www.mercurial-scm.org/wiki/ChineseTutorial)
+* [HgInit (中文版)](http://bucunzai.net/hginit/)
+* [沉浸式学 Git](http://igit.linuxtoy.org)
+* [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) （感谢 @flyhigher139 翻译了中文版）
+* [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
+* [GitHub帮助文档](https://github.com/waylau/github-help)
+* [GitHub漫游指南](https://github.com/phodal/github-roam)
+
+[⬆️ 返回首页](#目录)
 
 ## 在线工具
 
@@ -290,14 +386,20 @@
 - [前端编程 jsbin](http://jsbin.com)
 - [语法实时编译 babeljs](https://babeljs.io/repl/#?babili=false&evaluate=true&lineWrap=false&presets=es2015%2Creact%2Cstage-2&targets=&browsers=&builtIns=false&code=)
 
+[⬆️ 返回首页](#目录)
+
 ### 转换
 - [在线时间戳(Unix timestamp)转换工具](http://www.atool.org/timestamp.php)
 - [图片转换Base64](http://imgbase64.duoshitong.com/)
+
+[⬆️ 返回首页](#目录)
 
 ### 图标管理
 
 - [icomoon](https://icomoon.io)
 - [iconfont](http://www.iconfont.cn)
+
+[⬆️ 返回首页](#目录)
 
 ### 其他
 - [正则](https://regexper.com/)
@@ -308,11 +410,15 @@
 - [图片压缩](https://tinypng.com)
 - [流程图，思维导图、UML、网络拓扑图](https://www.processon.com/)
 
+[⬆️ 返回首页](#目录)
+
 ## UA 识别
 
 - [detector](https://github.com/hotoo/detector)
 - [ua-parser-js](https://github.com/faisalman/ua-parser-js/)
 - [platform.js](https://github.com/bestiejs/platform.js/)
+
+[⬆️ 返回首页](#目录)
 
 ## 页面交互
 
@@ -330,11 +436,15 @@
 - [TouchSlide - 触屏滑动特效(焦点图,Tab切换)](http://www.superslide2.com/TouchSlide/)
 - [better-scroll](https://github.com/ustbhuangyi/better-scroll) -  inspired by iscroll, and it supports more features and has a better scroll perfermance
 
+[⬆️ 返回首页](#目录)
+
 ### 瀑布流
 
 - [Masonry](http://masonry.desandro.com/)
 - [Isotope - Filter & sort magical layouts](http://isotope.metafizzy.co/)
 - [Bricklayer](https://github.com/ademilter/bricklayer)
+
+[⬆️ 返回首页](#目录)
 
 ### 懒加载/加载监听/预加载
 
@@ -349,6 +459,8 @@
 - [PxLoader - JS预加载库:实现图片、声音等各种文件的预加载功能](https://github.com/thinkpixellab/PxLoader)
 - [bindWithDelay - jQuery Plugin For Delayed Event Execution](https://github.com/bgrins/bindWithDelay)
 - [TypeWatch - 停止输入时调用](https://github.com/dennyferra/TypeWatch)
+
+[⬆️ 返回首页](#目录)
 
 ### 图片轮播(幻灯片)/图片展示
 
@@ -369,6 +481,8 @@
 - [ResponsifyJS - 让图像完全响应式而不会牺牲图像的主要部分](https://github.com/wentin/ResponsifyJS)
 - [react-slick - React 实现的轮播图插件](https://github.com/akiran/react-slick)
 
+[⬆️ 返回首页](#目录)
+
 ### 图片剪裁/图片处理
 
 - [Jcrop -  Image Cropping Plugin for jQuery](https://github.com/tapmodo/Jcrop)
@@ -381,6 +495,8 @@
 - [CSSgram - CSS 实现的 Instagram 滤镜库](https://github.com/una/CSSgram)
 - [instagram.css - 另一个 CSS 实现的 Instagram 滤镜库](https://github.com/picturepan2/instagram.css)
 - [antimoderate - 图片模糊库](https://github.com/whackashoe/antimoderate)
+
+[⬆️ 返回首页](#目录)
 
 ### 进度条/加载动画(Loading)
 
@@ -398,16 +514,22 @@
 - [Sausage - 跟踪滚动条并记录当前阅读所处节点](https://github.com/christophercliff/sausage)
 - [loading.io](https://loading.io/) - 一个 Loading 图标的网站
 
+[⬆️ 返回首页](#目录)
+
 ### 侧滑插件(offcancas)
 
 - [pushy -  a responsive off-canvas navigation menu ](https://github.com/christophery/pushy)
 - [Slideout.js - 一个用于移动 Web 应用的触摸滑出式导航菜单](https://github.com/mango/slideout)
+
+[⬆️ 返回首页](#目录)
 
 ### 菜单(Menu)
 
 - [SuperFish - 基于jQuery的级联下拉菜单](https://github.com/joeldbirch/superfish)
 - [Responsive Nav - 响应式导航](https://github.com/viljamis/responsive-nav.js)
 - [metisMenu - A jQuery menu plugin](https://github.com/onokumus/metisMenu)
+
+[⬆️ 返回首页](#目录)
 
 ### 滚动侦测(ScrollSpy)
 
@@ -416,12 +538,16 @@
 - [Waypoints](https://github.com/imakewebthings/waypoints)
 - [ScrollMagic - 像进度条一样使用滚动条](https://github.com/janpaepke/ScrollMagic)
 
+[⬆️ 返回首页](#目录)
+
 ### 滚动加载更多/下拉刷新(Pull to Refresh)
 
 - [jScroll](https://github.com/pklauzinski/jscroll)
 - [web-pull-to-refresh](https://github.com/apeatling/web-pull-to-refresh)
 - [pulltorefresh](https://github.com/dwcares/pulltorefresh)
 - [RubberBand.js - add pull-to-refresh functionality to any page.](https://github.com/ThrivingKings/RubberBand.js)
+
+[⬆️ 返回首页](#目录)
 
 ### 平滑滚动插件(Smooth Scroll)
 
@@ -431,6 +557,8 @@
 - [scrollUp](https://github.com/markgoodyear/scrollup)
 - [elevator.js - 一个模拟电梯运行“返回顶部”的 JS 插件](https://github.com/tholman/elevator.js)
 
+[⬆️ 返回首页](#目录)
+
 ### 全屏滚动/全屏切换
 
 - [pagePiling.js - 全屏滚动效果](https://github.com/alvarotrigo/pagePiling.js)
@@ -439,13 +567,19 @@
 - [zepto.fullpage - 专注于移动端的fullPage.js](https://github.com/yanhaijing/zepto.fullpage)
 - [screenfull.js - 切换全屏模式](https://github.com/sindresorhus/screenfull.js)
 
+[⬆️ 返回首页](#目录)
+
 ### 分屏滚动
 
 - [multiscroll.js - 分屏滚动效果](https://github.com/alvarotrigo/multiscroll.js)
 
+[⬆️ 返回首页](#目录)
+
 ### 转场效果
 
 - [Animsition - 页面切换时的过渡效果](https://github.com/blivesta/animsition)
+
+[⬆️ 返回首页](#目录)
 
 ### 固定元素(Sticky)
 
@@ -454,10 +588,14 @@
 - [stickUp](https://github.com/LiranCohen/stickUp)
 - [Slinky.js - 堆叠头部创建滑动导航列表](https://github.com/iclanzan/slinky)
 
+[⬆️ 返回首页](#目录)
+
 ### 触控事件
 
 - [Hammer.js](https://github.com/hammerjs/hammer.js)
 - [jquery.event.move.js](https://github.com/stephband/jquery.event.move)
+
+[⬆️ 返回首页](#目录)
 
 ### 拖拽组件
 
@@ -465,11 +603,15 @@
 - [dragula - 一个让拖放操作变简单的 JS 库](https://github.com/bevacqua/dragula)
 - [GridList - 可拖拉的响应式列表库](https://github.com/uberVU/grid)
 
+[⬆️ 返回首页](#目录)
+
 ### 隐藏或展示页面元素
 
 - [Headroom.js - 在不需要页头时将其隐藏](http://www.bootcss.com/p/headroom.js/)
 - [Readmore.js - 内容显示与隐藏插件](https://github.com/jedfoster/Readmore.js)
 - [oriDomi - 像指一样折叠Dom元素](https://github.com/dmotz/oriDomi)
+
+[⬆️ 返回首页](#目录)
 
 ### 滚动条(Scrollbar)
 
@@ -479,11 +621,15 @@
 - [nanoScrollerJS](https://github.com/jamesflorentino/nanoScrollerJS)
 - [tinyscrollbar](https://github.com/wieringen/tinyscrollbar)
 
+[⬆️ 返回首页](#目录)
+
 ### 视差滚动(Parallax Scrolling)
 
 - [parallax.js](https://github.com/wagerfield/parallax)
 - [jparallax](https://github.com/stephband/jparallax)
 - [skrollr](https://github.com/Prinzhorn/skrollr)
+
+[⬆️ 返回首页](#目录)
 
 ### 缩放 (Zooming)
 
@@ -491,11 +637,14 @@
 - [zoom.js - 一个 jQuery 图片放大插件](https://github.com/fat/zoom.js)
 - [jQuery Zoom - mouseover时图片缩放效果](https://github.com/jackmoore/zoom)
 
+[⬆️ 返回首页](#目录)
+
 ### 下载组件
 
 - [download](https://github.com/rndme/download)
 - [Downloadify](https://github.com/dcneiner/Downloadify)
 
+[⬆️ 返回首页](#目录)
 
 ### Ajax模块
 
@@ -513,6 +662,8 @@
 - [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch)
 - [em-jsonp](https://github.com/em-fe/em-jsonp) 跨域处理
 
+[⬆️ 返回首页](#目录)
+
 ## 音频/视频
 
 - [jPlayer -  HTML5 Audio & Video for jQuery](https://github.com/happyworm/jPlayer)
@@ -528,12 +679,16 @@
 - [Buzz - A Javascript HTML5 Audio library](https://github.com/jaysalvat/buzz)
 - [MediaElement.js](http://github.com/johndyer/mediaelement/)
 
+[⬆️ 返回首页](#目录)
+
 ## APP 框架
 
 - [weex](https://github.com/apache/incubator-weex)
 - [react-native](https://github.com/facebook/react-native)
 - [原生APP体验的高性能框架 mui](https://github.com/dcloudio/mui)
 - [Fries](https://github.com/jaunesarmiento/fries)
+
+[⬆️ 返回首页](#目录)
 
 ## CSS 框架
 - [Bootstrap](https://github.com/twbs/bootstrap)
@@ -543,6 +698,8 @@
 - [jQuery Mobile](http://jquerymobile.com/)
 - [Layui](https://github.com/sentsin/layui/)- [Pure CSS](http://purecss.io/)
 - [topcoat](https://github.com/topcoat/topcoat)
+
+[⬆️ 返回首页](#目录)
 
 ## 富文本编辑器/Markdown编辑器/Markdown解析器
 
@@ -561,6 +718,8 @@
 - [Quill - 富文本编辑器](https://github.com/quilljs/quill)
 - [xEditor - 富文本编辑器](https://github.com/iq9891/xEditor)
 
+[⬆️ 返回首页](#目录)
+
 ## 颜色(CSS Colors)/SVG/Canvas
 
 - [CSS Colours](http://colours.neilorangepeel.com/)
@@ -571,6 +730,8 @@
 - [jquery-color - 可以动态改动颜色](https://github.com/jquery/jquery-color/)
 - [lee-colorpicker](https://github.com/iq9891/lee-colorpicker)
 
+[⬆️ 返回首页](#目录)
+
 ## 代码高亮插件/代码编辑器
 
 - [google-code-prettify](https://code.google.com/p/google-code-prettify/)
@@ -580,6 +741,8 @@
 - [CodeMirror](https://github.com/codemirror/codemirror)
 - [Crayon Syntax Highlighter](https://github.com/aramk/crayon-syntax-highlighter)
 - [prism - Lightweight, robust, elegant syntax highlighting.](https://github.com/PrismJS/prism)
+
+[⬆️ 返回首页](#目录)
 
 ## 动画(Animate)
 
@@ -617,6 +780,8 @@
 - Multi-touch gestures library - Web手势库
   - [AlloyFinger - 腾讯 AlloyTeam 出品的超级小的 Web 手势库](https://github.com/AlloyTeam/AlloyFinger)
 
+[⬆️ 返回首页](#目录)
+
 ## 本地存储
 
 - [cross-storage - Cross domain local storage](https://github.com/zendesk/cross-storage)
@@ -626,6 +791,8 @@
 - [Neurosync - JavaScript 本地离线 ORM 库](https://github.com/ClickerMonkey/neurosync)
 - [LokiJS - 性能优先的 JavaScript 内存数据库](https://github.com/techfort/LokiJS)
 - [turbolinks - Javascript pushState](https://github.com/turbolinks/turbolinks)
+
+[⬆️ 返回首页](#目录)
 
 ## 模板引擎
 
@@ -643,11 +810,15 @@
 - [Dust.js - Linkedin维护的项目](https://github.com/linkedin/dustjs)
 - [nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine
 
+[⬆️ 返回首页](#目录)
+
 ## 加密/转码
 - [crypto-js](https://github.com/brix/crypto-js)
 - [ulid](https://github.com/alizain/ulid) - 生成UUID类库
 - [RSA](http://www.ohdave.com/rsa/) 用RSA加密实现Web数据加密传输
 - [crypto](https://nodejs.org/api/crypto.html) Node.js 的 api
+
+[⬆️ 返回首页](#目录)
 
 ## 计算机相关书籍
 
@@ -676,21 +847,33 @@
 * [SystemTap新手指南](https://spacewander.gitbooks.io/systemtapbeginnersguide_zh/content/index.html)
 * [操作系统思考](https://github.com/wizardforcel/think-os-zh)
 
+[⬆️ 返回首页](#目录)
+
 ### 智能系统
 * [一步步搭建物联网系统](https://github.com/phodal/designiot)
+
+[⬆️ 返回首页](#目录)
 
 ### 分布式系统
 * [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
 
+[⬆️ 返回首页](#目录)
+
 ### 编译原理
 * [《计算机程序的结构和解释》公开课 翻译项目](https://github.com/DeathKing/Learning-SICP)
+
+[⬆️ 返回首页](#目录)
 
 ### 函数式概念
 * [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn)
 
+[⬆️ 返回首页](#目录)
+
 ### 计算机图形学
 * [OpenGL 教程](https://github.com/zilongshanren/opengl-tutorials)
 * [WebGL自学网](http://html5.iii.org.tw/course/webgl/)
+
+[⬆️ 返回首页](#目录)
 
 ### WEB服务器
 
@@ -699,27 +882,7 @@
 * [OpenResty最佳实践](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details)
 * [Apache 中文手册](http://works.jinbuguo.com/apache/menu22/index.html)
 
-### 版本控制
-
-* [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) （本文由 [廖雪峰](http://www.liaoxuefeng.com) 创作，如果觉得本教程对您有帮助，可以去 [iTunes](https://itunes.apple.com/cn/app/git-jiao-cheng/id876420437) 购买）
-* [git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
-* [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
-* [Git 参考手册](http://gitref.justjavac.com)
-* [Pro Git](http://git-scm.com/book/zh/v2)
-* [Pro Git 中文版](https://www.gitbook.com/book/0532/progit/details) (整理在gitbook上)
-* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
-* [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
-* [Git权威指南](http://www.worldhello.net/gotgit/)
-* [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
-* [Mercurial 使用教程](https://www.mercurial-scm.org/wiki/ChineseTutorial)
-* [HgInit (中文版)](http://bucunzai.net/hginit/)
-* [沉浸式学 Git](http://igit.linuxtoy.org)
-* [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) （感谢 @flyhigher139 翻译了中文版）
-* [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
-* [GitHub帮助文档](https://github.com/waylau/github-help)
-* [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
-* [svn 手册](http://svnbook.red-bean.com/nightly/zh/index.html)
-* [GitHub漫游指南](https://github.com/phodal/github-roam)
+[⬆️ 返回首页](#目录)
 
 ### 编辑器
 
@@ -734,6 +897,8 @@
 * [Emacs 生存指南](http://lifegoo.pluskid.org/upload/blog/152/Survive.in.Emacs.pdf)
 * [Atom官方手册](https://atom-china.org/t/atom/62)
 
+[⬆️ 返回首页](#目录)
+
 ### 管理和监控
 
 * [ELKstack 中文指南](http://kibana.logstash.es)
@@ -742,6 +907,8 @@
 * [Elasticsearch 权威指南（中文版）](http://es.xiaoleilu.com)
 * [Logstash 最佳实践](https://github.com/chenryn/logstash-best-practice-cn)
 * [Puppet 2.7 Cookbook 中文版](http://bbs.konotes.org/workdoc/puppet-27/)
+
+[⬆️ 返回首页](#目录)
 
 ### 项目相关
 
@@ -760,12 +927,16 @@
 * [GNU make 中文手册](http://www.yayu.org/book/gnu_make/)
 * [The Twelve-Factor App](http://12factor.net/zh_cn/)
 
+[⬆️ 返回首页](#目录)
+
 ### 设计模式
 
 * [图说设计模式](https://github.com/me115/design_patterns)
 * [史上最全设计模式导学目录](http://blog.csdn.net/lovelion/article/details/17517213)
 * [design pattern 包教不包会](https://github.com/AlfredTheBest/Design-Pattern)
 * [设计模式 Java 版](https://quanke.gitbooks.io/design-pattern-java/content/)
+
+[⬆️ 返回首页](#目录)
 
 ### Web 前端
 
@@ -797,11 +968,15 @@
 * [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
 * [站点可靠性工程](https://github.com/hellorocky/Site-Reliability-Engineering)
 
+[⬆️ 返回首页](#目录)
+
 ### 编程艺术
 
 * [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
 * [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
 * [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
+
+[⬆️ 返回首页](#目录)
 
 ### JavaScript
 
@@ -883,6 +1058,8 @@
     * [Angular-Meteor 中文教程](http://angular.meteorhub.org/)
 * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
+[⬆️ 返回首页](#目录)
+
 #### Shell
 
 * [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
@@ -890,6 +1067,8 @@
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
 * [shell十三问](https://github.com/wzb56/13_questions_of_shell)
 * [Shell编程范例](https://www.gitbook.com/book/tinylab/shellbook/details)
+
+[⬆️ 返回首页](#目录)
 
 ### 读书笔记及其它
 
@@ -918,8 +1097,22 @@
 * [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
 * [Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)
 
+[⬆️ 返回首页](#目录)
+
 ## 前端面试
+
+### 面试教科书
+
+- [笔试面试知识整理](https://github.com/HIT-Alibaba/interview) - 打开其 Gitbook 上的地址我都惊呆了。虽然有部分内容待完善，但是光浏览目录都是享受。
+- [在 LinkedIn 做面试官的故事](http://dongfei.baijia.baidu.com/article/52449) - 非面试题，介绍 LinkedIn 的面试过程 文章有很多中肯的建议和想法，推荐阅读
+- [大漠：写给前端面试者](http://www.w3cplus.com/css/write-to-front-end-developer-interview.html) - 这篇文章不涉及任何的面试题 大漠与大家聊聊面试者与被面者之间的感受...
+- [前端面试题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)
+- [前端面经](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) - 主要内容是些前端面试笔试题和面试套路，值得阅读
+
+[⬆️ 返回首页](#目录)
 
 ### Vue.js
 
 - [面试官: 实现双向绑定Proxy比defineproperty优劣如何?](https://juejin.im/post/5acd0c8a6fb9a028da7cdfaf)
+
+[⬆️ 返回首页](#目录)
