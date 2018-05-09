@@ -730,6 +730,7 @@
 - [CKEditor - 可视化 HTML 编辑器](https://github.com/ckeditor/ckeditor-dev)
 - [Quill - 富文本编辑器](https://github.com/quilljs/quill)
 - [xEditor - 富文本编辑器](https://github.com/iq9891/xEditor)
+- [medium-editor](https://github.com/yabwe/medium-editor) Vue.js 官方推荐支持 vue 的编辑器
 
 [⬆️ 返回首页](#目录)
 
