@@ -7,6 +7,7 @@
 
 ## 目录
 
+- [Vue.js 专栏](#vuejs-专栏)
 - [JavaScript 框架](#javascript-框架)
   - [知名流行的框架](#知名流行的框架)
   - [框架的学习](#框架的学习)
@@ -101,6 +102,17 @@
   - [Vue.js](#vuejs)
 
 ----
+
+## Vue.js 专栏
+
+- [vue-cropper](https://github.com/xyxiao001/vue-cropper) 一个简单的图片剪辑插件，支持海报图片剪辑
+- [vue-pretty-logger](https://github.com/TaroXin/vue-pretty-logger) 一个还在持续更新的本地 log 输出插件
+- [vue-xeditor](https://github.com/iq9891/vue-xeditor) xEditor 富文本编辑器的 Vue 版
+- [em-ckeditor](https://github.com/em-fe/em-ckeditor) ckeditor 富文本编辑器的 Vue 版
+- [vue-icon](https://github.com/fe6/vue-icon) 简单的 icon 组件
+- [vue-baidu-map](https://github.com/Dafrok/vue-baidu-map) 百度地图的 vue 版
+
+[⬆️ 返回首页](#目录)
 
 ## JavaScript 框架
 
@@ -345,23 +357,23 @@
 
 ### 使用手册
 
-* [git 教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-* [git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
-* [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
-* [git 参考手册](http://gitref.justjavac.com)
-* [Pro git](http://git-scm.com/book/zh/v2)
-* [Pro git 中文版](https://www.gitbook.com/book/0532/progit/details) (整理在gitbook上)
-* [git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
-* [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
-* [Git权威指南](http://www.worldhello.net/gotgit/)
-* [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
-* [Mercurial 使用教程](https://www.mercurial-scm.org/wiki/ChineseTutorial)
-* [HgInit (中文版)](http://bucunzai.net/hginit/)
-* [沉浸式学 Git](http://igit.linuxtoy.org)
-* [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) （感谢 @flyhigher139 翻译了中文版）
-* [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
-* [GitHub帮助文档](https://github.com/waylau/github-help)
-* [GitHub漫游指南](https://github.com/phodal/github-roam)
+- [git 教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+- [git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+- [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/)
+- [git 参考手册](http://gitref.justjavac.com)
+- [Pro git](http://git-scm.com/book/zh/v2)
+- [Pro git 中文版](https://www.gitbook.com/book/0532/progit/details) (整理在gitbook上)
+- [git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
+- [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
+- [Git权威指南](http://www.worldhello.net/gotgit/)
+- [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
+- [Mercurial 使用教程](https://www.mercurial-scm.org/wiki/ChineseTutorial)
+- [HgInit (中文版)](http://bucunzai.net/hginit/)
+- [沉浸式学 Git](http://igit.linuxtoy.org)
+- [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) （感谢 @flyhigher139 翻译了中文版）
+- [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
+- [GitHub帮助文档](https://github.com/waylau/github-help)
+- [GitHub漫游指南](https://github.com/phodal/github-roam)
 
 [⬆️ 返回首页](#目录)
 
@@ -659,6 +671,12 @@
 
 [⬆️ 返回首页](#目录)
 
+### 其他
+
+- [lee-colorpicker](https://github.com/iq9891/lee-colorpicker) 基于 jquery 的颜色选择器
+
+[⬆️ 返回首页](#目录)
+
 ## 音频/视频
 
 - [jPlayer -  HTML5 Audio & Video for jQuery](https://github.com/happyworm/jPlayer)
@@ -835,278 +853,278 @@
 
 ### 操作系统
 
-* [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
-* [鸟哥的Linux私房菜](http://vbird.dic.ksu.edu.tw/)
-* [The Linux Command Line](http://billie66.github.io/TLCL/index.html) (中英文版)
-* [Linux 设备驱动](http://oss.org.cn/kernel-book/ldd3/index.html) (第三版)
-* [深入分析Linux内核源码](http://www.kerneltravel.net/kernel-book/%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90Linux%E5%86%85%E6%A0%B8%E6%BA%90%E7%A0%81.html)
-* [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
-* [Docker中文指南](https://github.com/widuu/chinese_docker)
-* [Docker —— 从入门到实践](https://github.com/yeasy/docker_practice)
-* [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
-* [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet/tree/master/zh-cn#docker-cheat-sheet)
-* [FreeRADIUS新手入门](http://freeradius.akagi201.org)
-* [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
-* [FreeBSD 使用手册](https://www.freebsd.org/doc/zh_CN/books/handbook/index.html)
-* [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
-* [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
-* [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
-* [Linux Documentation (中文版)](https://www.gitbook.com/book/tinylab/linux-doc/details)
-* [嵌入式 Linux 知识库 (eLinux.org 中文版)](https://www.gitbook.com/book/tinylab/elinux/details)
-* [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)
-* [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
-* [SystemTap新手指南](https://spacewander.gitbooks.io/systemtapbeginnersguide_zh/content/index.html)
-* [操作系统思考](https://github.com/wizardforcel/think-os-zh)
+- [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
+- [鸟哥的Linux私房菜](http://vbird.dic.ksu.edu.tw/)
+- [The Linux Command Line](http://billie66.github.io/TLCL/index.html) (中英文版)
+- [Linux 设备驱动](http://oss.org.cn/kernel-book/ldd3/index.html) (第三版)
+- [深入分析Linux内核源码](http://www.kerneltravel.net/kernel-book/%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90Linux%E5%86%85%E6%A0%B8%E6%BA%90%E7%A0%81.html)
+- [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
+- [Docker中文指南](https://github.com/widuu/chinese_docker)
+- [Docker —— 从入门到实践](https://github.com/yeasy/docker_practice)
+- [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
+- [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet/tree/master/zh-cn#docker-cheat-sheet)
+- [FreeRADIUS新手入门](http://freeradius.akagi201.org)
+- [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
+- [FreeBSD 使用手册](https://www.freebsd.org/doc/zh_CN/books/handbook/index.html)
+- [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
+- [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
+- [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
+- [Linux Documentation (中文版)](https://www.gitbook.com/book/tinylab/linux-doc/details)
+- [嵌入式 Linux 知识库 (eLinux.org 中文版)](https://www.gitbook.com/book/tinylab/elinux/details)
+- [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)
+- [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
+- [SystemTap新手指南](https://spacewander.gitbooks.io/systemtapbeginnersguide_zh/content/index.html)
+- [操作系统思考](https://github.com/wizardforcel/think-os-zh)
 
 [⬆️ 返回首页](#目录)
 
 ### 智能系统
-* [一步步搭建物联网系统](https://github.com/phodal/designiot)
+- [一步步搭建物联网系统](https://github.com/phodal/designiot)
 
 [⬆️ 返回首页](#目录)
 
 ### 分布式系统
-* [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
+- [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
 
 [⬆️ 返回首页](#目录)
 
 ### 编译原理
-* [《计算机程序的结构和解释》公开课 翻译项目](https://github.com/DeathKing/Learning-SICP)
+- [《计算机程序的结构和解释》公开课 翻译项目](https://github.com/DeathKing/Learning-SICP)
 
 [⬆️ 返回首页](#目录)
 
 ### 函数式概念
-* [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn)
+- [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn)
 
 [⬆️ 返回首页](#目录)
 
 ### 计算机图形学
-* [OpenGL 教程](https://github.com/zilongshanren/opengl-tutorials)
-* [WebGL自学网](http://html5.iii.org.tw/course/webgl/)
+- [OpenGL 教程](https://github.com/zilongshanren/opengl-tutorials)
+- [WebGL自学网](http://html5.iii.org.tw/course/webgl/)
 
 [⬆️ 返回首页](#目录)
 
 ### WEB服务器
 
-* [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) (淘宝团队出品)
-* [Nginx教程从入门到精通](http://www.ttlsa.com/nginx/nginx-stu-pdf/)(PDF版本，运维生存时间出品)
-* [OpenResty最佳实践](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details)
-* [Apache 中文手册](http://works.jinbuguo.com/apache/menu22/index.html)
+- [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) (淘宝团队出品)
+- [Nginx教程从入门到精通](http://www.ttlsa.com/nginx/nginx-stu-pdf/)(PDF版本，运维生存时间出品)
+- [OpenResty最佳实践](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details)
+- [Apache 中文手册](http://works.jinbuguo.com/apache/menu22/index.html)
 
 [⬆️ 返回首页](#目录)
 
 ### 编辑器
 
-* [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
-* [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com/)
-* [Vim中文文档](https://github.com/vimcn/vimcdoc)
-* [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
-* [vim 实操教程](https://github.com/dofy/learn-vim)
-* [Atom飞行手册中文版](https://github.com/wizardforcel/atom-flight-manual-zh-cn)
-* [Markdown·简单的世界](https://github.com/wizardforcel/markdown-simple-world)
-* [一年成为 Emacs 高手](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)
-* [Emacs 生存指南](http://lifegoo.pluskid.org/upload/blog/152/Survive.in.Emacs.pdf)
-* [Atom官方手册](https://atom-china.org/t/atom/62)
+- [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
+- [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com/)
+- [Vim中文文档](https://github.com/vimcn/vimcdoc)
+- [所需即所获：像 IDE 一样使用 vim](https://github.com/yangyangwithgnu/use_vim_as_ide)
+- [vim 实操教程](https://github.com/dofy/learn-vim)
+- [Atom飞行手册中文版](https://github.com/wizardforcel/atom-flight-manual-zh-cn)
+- [Markdown·简单的世界](https://github.com/wizardforcel/markdown-simple-world)
+- [一年成为 Emacs 高手](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)
+- [Emacs 生存指南](http://lifegoo.pluskid.org/upload/blog/152/Survive.in.Emacs.pdf)
+- [Atom官方手册](https://atom-china.org/t/atom/62)
 
 [⬆️ 返回首页](#目录)
 
 ### 管理和监控
 
-* [ELKstack 中文指南](http://kibana.logstash.es)
-* [Mastering Elasticsearch(中文版)](http://udn.yyuap.com/doc/mastering-elasticsearch/)
-* [ElasticSearch 权威指南](https://www.gitbook.com/book/fuxiaopang/learnelasticsearch/details)
-* [Elasticsearch 权威指南（中文版）](http://es.xiaoleilu.com)
-* [Logstash 最佳实践](https://github.com/chenryn/logstash-best-practice-cn)
-* [Puppet 2.7 Cookbook 中文版](http://bbs.konotes.org/workdoc/puppet-27/)
+- [ELKstack 中文指南](http://kibana.logstash.es)
+- [Mastering Elasticsearch(中文版)](http://udn.yyuap.com/doc/mastering-elasticsearch/)
+- [ElasticSearch 权威指南](https://www.gitbook.com/book/fuxiaopang/learnelasticsearch/details)
+- [Elasticsearch 权威指南（中文版）](http://es.xiaoleilu.com)
+- [Logstash 最佳实践](https://github.com/chenryn/logstash-best-practice-cn)
+- [Puppet 2.7 Cookbook 中文版](http://bbs.konotes.org/workdoc/puppet-27/)
 
 [⬆️ 返回首页](#目录)
 
 ### 项目相关
 
-* [持续集成（第二版）](http://article.yeeyan.org/view/2251/94882) (译言网)
-* [让开发自动化系列专栏](http://www.ibm.com/developerworks/cn/java/j-ap/)
-* [追求代码质量](http://www.ibm.com/developerworks/cn/java/j-cq/)
-* [selenium 中文文档](https://github.com/fool2fish/selenium-doc)
-* [Selenium Webdriver 简易教程](http://it-ebooks.flygon.net/selenium-simple-tutorial/)
-* [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_\(Simplified\))
-* [約耳談軟體(Joel on Software)](http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81)
-* [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
-* [Gradle 中文使用文档](http://yuedu.baidu.com/ebook/f23af265998fcc22bcd10da2)
-* [编码规范](https://github.com/ecomfe/spec)
-* [开源软件架构](http://www.ituring.com.cn/book/1143)
-* [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
-* [GNU make 中文手册](http://www.yayu.org/book/gnu_make/)
-* [The Twelve-Factor App](http://12factor.net/zh_cn/)
+- [持续集成（第二版）](http://article.yeeyan.org/view/2251/94882) (译言网)
+- [让开发自动化系列专栏](http://www.ibm.com/developerworks/cn/java/j-ap/)
+- [追求代码质量](http://www.ibm.com/developerworks/cn/java/j-cq/)
+- [selenium 中文文档](https://github.com/fool2fish/selenium-doc)
+- [Selenium Webdriver 简易教程](http://it-ebooks.flygon.net/selenium-simple-tutorial/)
+- [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_\(Simplified\))
+- [約耳談軟體(Joel on Software)](http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81)
+- [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
+- [Gradle 中文使用文档](http://yuedu.baidu.com/ebook/f23af265998fcc22bcd10da2)
+- [编码规范](https://github.com/ecomfe/spec)
+- [开源软件架构](http://www.ituring.com.cn/book/1143)
+- [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
+- [GNU make 中文手册](http://www.yayu.org/book/gnu_make/)
+- [The Twelve-Factor App](http://12factor.net/zh_cn/)
 
 [⬆️ 返回首页](#目录)
 
 ### 设计模式
 
-* [图说设计模式](https://github.com/me115/design_patterns)
-* [史上最全设计模式导学目录](http://blog.csdn.net/lovelion/article/details/17517213)
-* [design pattern 包教不包会](https://github.com/AlfredTheBest/Design-Pattern)
-* [设计模式 Java 版](https://quanke.gitbooks.io/design-pattern-java/content/)
+- [图说设计模式](https://github.com/me115/design_patterns)
+- [史上最全设计模式导学目录](http://blog.csdn.net/lovelion/article/details/17517213)
+- [design pattern 包教不包会](https://github.com/AlfredTheBest/Design-Pattern)
+- [设计模式 Java 版](https://quanke.gitbooks.io/design-pattern-java/content/)
 
 [⬆️ 返回首页](#目录)
 
 ### Web 前端
 
-* [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home)
-* [浏览器开发工具的秘密](http://jinlong.github.io/2013/08/29/devtoolsecrets/)
-* [Chrome 开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
-* [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
-* [Grunt中文文档](http://www.gruntjs.net/)
-* [gulp中文文档](http://www.gulpjs.com.cn/docs/)
-* [Gulp 入门指南](https://github.com/nimojs/gulp-book)
-* [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
-* [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
-* [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
-* [移动前端开发收藏夹](https://github.com/hoosin/mobile-web-favorites)
-* [JSON风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
-* [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
-* [前端资源分享（一）](https://github.com/hacke2/hacke2.github.io/issues/1)
-* [前端资源分享（二）](https://github.com/hacke2/hacke2.github.io/issues/3)
-* [前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
-* [前端开发者手册](https://www.gitbook.com/book/dwqs/frontenddevhandbook/details)
-* [前端工程师手册](https://www.gitbook.com/book/leohxj/front-end-database/details)
-* [w3school教程整理](https://github.com/wizardforcel/w3school)
-* [Wireshark用户手册](http://man.lupaworld.com/content/network/wireshark/index.html)
-* [一站式学习Wireshark](https://community.emc.com/thread/194901)
-* [HTTP 下午茶](https://ccbikai.gitbooks.io/http-book/content/)
-* [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
-* [RFC 7540 - HTTP/2 中文翻译版](https://github.com/abbshr/rfc7540-translation-zh_cn)
-* [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
-* [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
-* [站点可靠性工程](https://github.com/hellorocky/Site-Reliability-Engineering)
+- [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home)
+- [浏览器开发工具的秘密](http://jinlong.github.io/2013/08/29/devtoolsecrets/)
+- [Chrome 开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
+- [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
+- [Grunt中文文档](http://www.gruntjs.net/)
+- [gulp中文文档](http://www.gulpjs.com.cn/docs/)
+- [Gulp 入门指南](https://github.com/nimojs/gulp-book)
+- [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
+- [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
+- [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
+- [移动前端开发收藏夹](https://github.com/hoosin/mobile-web-favorites)
+- [JSON风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
+- [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
+- [前端资源分享（一）](https://github.com/hacke2/hacke2.github.io/issues/1)
+- [前端资源分享（二）](https://github.com/hacke2/hacke2.github.io/issues/3)
+- [前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
+- [前端开发者手册](https://www.gitbook.com/book/dwqs/frontenddevhandbook/details)
+- [前端工程师手册](https://www.gitbook.com/book/leohxj/front-end-database/details)
+- [w3school教程整理](https://github.com/wizardforcel/w3school)
+- [Wireshark用户手册](http://man.lupaworld.com/content/network/wireshark/index.html)
+- [一站式学习Wireshark](https://community.emc.com/thread/194901)
+- [HTTP 下午茶](https://ccbikai.gitbooks.io/http-book/content/)
+- [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
+- [RFC 7540 - HTTP/2 中文翻译版](https://github.com/abbshr/rfc7540-translation-zh_cn)
+- [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
+- [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
+- [站点可靠性工程](https://github.com/hellorocky/Site-Reliability-Engineering)
 
 [⬆️ 返回首页](#目录)
 
 ### 编程艺术
 
-* [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
-* [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
-* [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
+- [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
+- [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
+- [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
 
 [⬆️ 返回首页](#目录)
 
 ### JavaScript
 
-* [Google JavaScript 代码风格指南](http://bq69.com/blog/articles/script/868/google-javascript-style-guide.html)
-* [Google JSON 风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
-* [Airbnb JavaScript 规范](https://github.com/adamlu/javascript-style-guide)
-* [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
-* [Javascript编程指南](http://pij.robinqu.me/) ([源码](https://github.com/RobinQu/Programing-In-Javascript))
-* [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
-* [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
-* [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF) (此书已由人民邮电出版社出版发行，但作者依然免费提供PDF版本，希望开发者们去购买，支持作者)
-* [《JavaScript 模式》](https://github.com/jayli/javascript-patterns) “JavaScript patterns”中译本
-* [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html)  (注:原文由[为之漫笔](http://www.cn-cuckoo.com)翻译，原始地址无法打开，所以此处地址为我博客上的备份)
-* [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
-* [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)   
-* [ECMAScript 5.1 中文版](http://yanhaijing.com/es5)   
-* [ECMAScript 6 入门](http://es6.ruanyifeng.com/) (作者：阮一峰)
-* [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
-* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (深入JavaScript语言核心机制的系列图书)
-* [JavaScript 教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000) 廖雪峰
-* [MDN JavaScript 中文文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
-* jQuery
-    * [jQuery 解构](http://www.cn-cuckoo.com/deconstructed/jquery.html)
-    * [简单易懂的JQuery魔法](http://www.nowamagic.net/librarys/books/contents/jquery)
-    * [How to write jQuery plugin](http://i5ting.github.io/How-to-write-jQuery-plugin/build/jquery.plugin.html)
-    * [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
-    * [如何实现一个类jQuery？](https://github.com/MeCKodo/forchange)
-* Node.js
-    * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
-    * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
-    * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
-    * [express.js 中文文档](http://expressjs.jser.us/)
-    * [koa 中文文档](https://github.com/guo-yu/koa-guide)
-    * [一起学koa](http://base-n.github.io/koa-generator-examples/)
-    * [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
-    * [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
-    * [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
-    * [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.com/package/learnyounode-zh-cn)
-    * [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
-    * [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
-    * [orm2 中文文档](https://github.com/wizardforcel/orm2-doc-zh-cn)
-* underscore.js
-    * [Underscore.js中文文档](http://learningcn.com/underscore/)
-* backbone.js
-    * [backbone.js中文文档](http://www.css88.com/doc/backbone/)
-    * [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
-    * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
-    * [Developing Backbone.js Applications(中文版)](http://feliving.github.io/developing-backbone-applications/)
-* AngularJS
-    * [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
-    * [AngularJS中译本](https://github.com/peiransun/angularjs-cn)
-    * [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn)
-    * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
-    * [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/)
-* Zepto.js
-    * [Zepto.js 中文文档](http://mweb.baidu.com/zeptoapi/)
-* Sea.js
-    * [Hello Sea.js](http://island205.com/HelloSea.js/)
-* React.js
-    * [redux 状态管理](https://github.com/camsong/redux-in-chinese)
-    * [React.js 中文文档](https://doc.react-china.org/)
-    * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
-    * [React 入门教程](http://fraserxu.me/intro-to-react/)
-    * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
-    * [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
-* impress.js
-    * [impress.js的中文教程](https://github.com/kokdemo/impress.js-tutorial-in-Chinese)
-* CoffeeScript
-    * [CoffeeScript Cookbook](http://island205.com/coffeescript-cookbook.github.com/)
-    * [The Little Book on CoffeeScript中文版](http://island205.com/tlboc/)
-    * [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
-* TypeScipt
-    * [TypeScript Handbook](https://zhongsp.gitbooks.io/typescript-handbook/content/)
-* ExtJS
-    * [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
-* Meteor
-    * [Discover Meteor](http://zh.discovermeteor.com/)
-    * [Meteor 中文文档](http://docs.meteorhub.org/#/basic/)
-    * [Angular-Meteor 中文教程](http://angular.meteorhub.org/)
-* [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
+- [Google JavaScript 代码风格指南](http://bq69.com/blog/articles/script/868/google-javascript-style-guide.html)
+- [Google JSON 风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
+- [Airbnb JavaScript 规范](https://github.com/adamlu/javascript-style-guide)
+- [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
+- [Javascript编程指南](http://pij.robinqu.me/) ([源码](https://github.com/RobinQu/Programing-In-Javascript))
+- [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
+- [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+- [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF) (此书已由人民邮电出版社出版发行，但作者依然免费提供PDF版本，希望开发者们去购买，支持作者)
+- [《JavaScript 模式》](https://github.com/jayli/javascript-patterns) “JavaScript patterns”中译本
+- [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html)  (注:原文由[为之漫笔](http://www.cn-cuckoo.com)翻译，原始地址无法打开，所以此处地址为我博客上的备份)
+- [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
+- [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)   
+- [ECMAScript 5.1 中文版](http://yanhaijing.com/es5)   
+- [ECMAScript 6 入门](http://es6.ruanyifeng.com/) (作者：阮一峰)
+- [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (深入JavaScript语言核心机制的系列图书)
+- [JavaScript 教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000) 廖雪峰
+- [MDN JavaScript 中文文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+- jQuery
+    - [jQuery 解构](http://www.cn-cuckoo.com/deconstructed/jquery.html)
+    - [简单易懂的JQuery魔法](http://www.nowamagic.net/librarys/books/contents/jquery)
+    - [How to write jQuery plugin](http://i5ting.github.io/How-to-write-jQuery-plugin/build/jquery.plugin.html)
+    - [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
+    - [如何实现一个类jQuery？](https://github.com/MeCKodo/forchange)
+- Node.js
+    - [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
+    - [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
+    - [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
+    - [express.js 中文文档](http://expressjs.jser.us/)
+    - [koa 中文文档](https://github.com/guo-yu/koa-guide)
+    - [一起学koa](http://base-n.github.io/koa-generator-examples/)
+    - [使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)
+    - [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
+    - [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
+    - [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.com/package/learnyounode-zh-cn)
+    - [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
+    - [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
+    - [orm2 中文文档](https://github.com/wizardforcel/orm2-doc-zh-cn)
+- underscore.js
+    - [Underscore.js中文文档](http://learningcn.com/underscore/)
+- backbone.js
+    - [backbone.js中文文档](http://www.css88.com/doc/backbone/)
+    - [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
+    - [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
+    - [Developing Backbone.js Applications(中文版)](http://feliving.github.io/developing-backbone-applications/)
+- AngularJS
+    - [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
+    - [AngularJS中译本](https://github.com/peiransun/angularjs-cn)
+    - [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn)
+    - [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
+    - [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/)
+- Zepto.js
+    - [Zepto.js 中文文档](http://mweb.baidu.com/zeptoapi/)
+- Sea.js
+    - [Hello Sea.js](http://island205.com/HelloSea.js/)
+- React.js
+    - [redux 状态管理](https://github.com/camsong/redux-in-chinese)
+    - [React.js 中文文档](https://doc.react-china.org/)
+    - [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
+    - [React 入门教程](http://fraserxu.me/intro-to-react/)
+    - [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
+    - [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
+- impress.js
+    - [impress.js的中文教程](https://github.com/kokdemo/impress.js-tutorial-in-Chinese)
+- CoffeeScript
+    - [CoffeeScript Cookbook](http://island205.com/coffeescript-cookbook.github.com/)
+    - [The Little Book on CoffeeScript中文版](http://island205.com/tlboc/)
+    - [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
+- TypeScipt
+    - [TypeScript Handbook](https://zhongsp.gitbooks.io/typescript-handbook/content/)
+- ExtJS
+    - [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
+- Meteor
+    - [Discover Meteor](http://zh.discovermeteor.com/)
+    - [Meteor 中文文档](http://docs.meteorhub.org/#/basic/)
+    - [Angular-Meteor 中文教程](http://angular.meteorhub.org/)
+- [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
 
 [⬆️ 返回首页](#目录)
 
 #### Shell
 
-* [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
-* [Bash脚本15分钟进阶教程](http://blog.sae.sina.com.cn/archives/3606)
-* [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
-* [shell十三问](https://github.com/wzb56/13_questions_of_shell)
-* [Shell编程范例](https://www.gitbook.com/book/tinylab/shellbook/details)
+- [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
+- [Bash脚本15分钟进阶教程](http://blog.sae.sina.com.cn/archives/3606)
+- [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
+- [shell十三问](https://github.com/wzb56/13_questions_of_shell)
+- [Shell编程范例](https://www.gitbook.com/book/tinylab/shellbook/details)
 
 [⬆️ 返回首页](#目录)
 
 ### 读书笔记及其它
 
-* [编译原理（紫龙书）中文第2版习题答案](https://github.com/fool2fish/dragon-book-exercise-answers)
-* [把《编程珠玑》读薄](http://www.hawstein.com/posts/make-thiner-programming-pearls.html)
-* [学习笔记: Vim、Python、memcached](https://github.com/lzjun567/note)
-* [精彩博客集合](https://github.com/hacke2/hacke2.github.io/issues/2)
-* [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
-* [Git Cheatsheet Chs](http://gh.amio.us/git-cheatsheet-chs/)
-* [GitBook简明教程](http://www.chengweiyang.cn/gitbook/index.html)
-* [JavaScript语言精粹](https://github.com/qibaoguang/Study-Step-by-Step/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/javascript_the_good_parts.md)
-* [提问的智慧](http://www.dianbo.org/9238/stone/tiwendezhihui.htm)
-* [Markdown 入门参考](https://github.com/LearnShare/Learning-Markdown)
-* [AsciiDoc简明指南](https://github.com/stanzgy/wiki/blob/master/markup/asciidoc-guide.asciidoc)
-* [背包问题九讲](http://love-oriented.com/pack/)
-* [老齐的技术资料](https://github.com/qiwsir/ITArticles)
-* [前端技能汇总](https://github.com/JacksonTian/fks)
-* [借助开源项目，学习软件开发](https://github.com/zhuangbiaowei/learn-with-open-source)
-* [前端工作面试问题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)
-* [leetcode/lintcode题解/算法学习笔记](https://www.gitbook.com/book/yuanbin/algorithm/details)
-* [前端开发笔记本](https://github.com/li-xinyang/FEND_Note)
-* [OpenWrt智能、自动、透明翻墙路由器教程](https://www.gitbook.com/book/softwaredownload/openwrt-fanqiang/details)
-* [SAN 管理入门系列](https://community.emc.com/docs/DOC-16067)
-* [Sketch 中文手册](http://sketchcn.com/sketch-chinese-user-manual.html#introduce)
-* [深入理解并行编程](http://ifeve.com/perfbook/)
-* [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
-* [Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)
+- [编译原理（紫龙书）中文第2版习题答案](https://github.com/fool2fish/dragon-book-exercise-answers)
+- [把《编程珠玑》读薄](http://www.hawstein.com/posts/make-thiner-programming-pearls.html)
+- [学习笔记: Vim、Python、memcached](https://github.com/lzjun567/note)
+- [精彩博客集合](https://github.com/hacke2/hacke2.github.io/issues/2)
+- [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
+- [Git Cheatsheet Chs](http://gh.amio.us/git-cheatsheet-chs/)
+- [GitBook简明教程](http://www.chengweiyang.cn/gitbook/index.html)
+- [JavaScript语言精粹](https://github.com/qibaoguang/Study-Step-by-Step/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/javascript_the_good_parts.md)
+- [提问的智慧](http://www.dianbo.org/9238/stone/tiwendezhihui.htm)
+- [Markdown 入门参考](https://github.com/LearnShare/Learning-Markdown)
+- [AsciiDoc简明指南](https://github.com/stanzgy/wiki/blob/master/markup/asciidoc-guide.asciidoc)
+- [背包问题九讲](http://love-oriented.com/pack/)
+- [老齐的技术资料](https://github.com/qiwsir/ITArticles)
+- [前端技能汇总](https://github.com/JacksonTian/fks)
+- [借助开源项目，学习软件开发](https://github.com/zhuangbiaowei/learn-with-open-source)
+- [前端工作面试问题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)
+- [leetcode/lintcode题解/算法学习笔记](https://www.gitbook.com/book/yuanbin/algorithm/details)
+- [前端开发笔记本](https://github.com/li-xinyang/FEND_Note)
+- [OpenWrt智能、自动、透明翻墙路由器教程](https://www.gitbook.com/book/softwaredownload/openwrt-fanqiang/details)
+- [SAN 管理入门系列](https://community.emc.com/docs/DOC-16067)
+- [Sketch 中文手册](http://sketchcn.com/sketch-chinese-user-manual.html#introduce)
+- [深入理解并行编程](http://ifeve.com/perfbook/)
+- [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
+- [Growth: 全栈增长工程师指南](https://github.com/phodal/growth-ebook)
 
 [⬆️ 返回首页](#目录)
 
