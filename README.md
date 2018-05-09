@@ -8,6 +8,8 @@
 ## 目录
 
 - [JavaScript 框架](#javascript-框架)
+  - [知名流行的框架](#知名流行的框架)
+  - [框架的学习](#框架的学习)
 - [JavaScript 库](#javascript-库)
   - [工具函数类](#工具函数类)
   - [调试工具](#调试工具)
@@ -17,7 +19,6 @@
   - [基于 react](#基于-react)
   - [基于 angular](#基于-angular)
   - [基于 jquery](#基于-jquery)
-- [前端游戏框架](#前端游戏框架)
 - [打包工具](#打包工具)
 - [前端脚手架](#前端脚手架)
 - [Node.js 方面](#nodejs-方面)
@@ -27,7 +28,6 @@
 - [CSS 处理器](#css-处理器)
 - [测试相关](#测试相关)
 - [状态管理](#状态管理)
-- [小程序相关](#小程序相关)
 - [性能分析工具](#性能分析工具)
 - [包管理工具](#包管理工具)
 - [前端编码规范](#前端编码规范)
@@ -41,6 +41,7 @@
   - [转换](#转换)
   - [图标管理](#图标管理)
   - [其他](其他)
+- [小程序相关](#小程序相关)
 - [UA 识别](#ua-识别)
 - [页面交互](#页面交互)
   - [Slider](#slider)
@@ -76,6 +77,7 @@
 - [本地存储](#本地存储)
 - [模板引擎](#模板引擎)
 - [加密/转码](#加密转码)
+- [前端游戏框架](#前端游戏框架)
 - [计算机相关书籍](#计算机相关书籍)
   - [操作系统](#操作系统)
   - [智能系统](#智能系统)
@@ -102,12 +104,20 @@
 
 ## JavaScript 框架
 
+### 知名流行的框架
+
 - [Vue.js](https://github.com/vuejs/vue)
 - [react](https://github.com/facebook/react?utm_source=gold_browser_extension)
 - [Angular](https://github.com/angular/angular)
 - [Foundation](https://github.com/zurb/foundation)
 - [Polymer - Google发布的Web组件构建框架](https://www.polymer-project.org)
 - [cyclejs](https://github.com/cyclejs/cyclejs/)
+
+[⬆️ 返回首页](#目录)
+
+### 框架的学习
+
+- [react-in-patterns](https://github.com/krasimir/react-in-patterns) 包含了在使用react时好用的设计模式和方法。对提高开发效率很有效。是一个不错的文档
 
 [⬆️ 返回首页](#目录)
 
@@ -198,22 +208,6 @@
 
 [⬆️ 返回首页](#目录)
 
-## 前端游戏框架
-- [cocos2d-html5](https://github.com/cocos2d/cocos2d-html5)
-- [Egret Engine](http://www.egret-labs.org/)
-- [LimeJS](https://github.com/digitalfruit/limejs)
-- [EaselJS](https://github.com/CreateJS/EaselJS)
-- [three.js](https://github.com/mrdoob/three.js)
-- [AlloyStick](https://github.com/AlloyTeam/AlloyStick)
-- [The-Best-JS-Game-Framework](https://github.com/finscn/The-Best-JS-Game-Framework)
-- [CanvasEngine](https://github.com/RSamaium/CanvasEngine)
-- [Quintus](https://github.com/cykod/Quintus)
-- [Stage.js](https://github.com/piqnt/stage.js/)
-- [phaser - 一个快速、免费、开源的 HTML5 游戏框架](https://github.com/photonstorm/phaser/)
-- [lufylegend.js](https://github.com/lufylegend/lufylegend.js)
-
-[⬆️ 返回首页](#目录)
-
 ## 打包工具
 
 - [webpack](https://github.com/webpack/webpack)
@@ -254,6 +248,7 @@
 - [http-server](https://github.com/indexzero/http-server) 零配置的命令行 http 服务器
 - [http-serve](https://github.com/indexzero/http-serve) 零配置的命令行 http 服务器
 - [nvm](https://github.com/creationix/nvm) node 版本控制
+- [json-server](https://github.com/typicode/json-server) 在不到30秒的时间内获得一个完整的虚假REST API，零代码
 
 [⬆️ 返回首页](#目录)
 
@@ -294,13 +289,6 @@
 - [redux](https://github.com/reactjs/redux)
 - [immutable-js 数据集控制](https://github.com/facebook/immutable-js)
 - [vuex](https://vuex.vuejs.org)
-
-[⬆️ 返回首页](#目录)
-
-## 小程序相关
-
-- [mpvue 开发框架](https://github.com/Meituan-Dianping/mpvue)
-- [wepy 组件库](https://github.com/Tencent/wepy)
 
 [⬆️ 返回首页](#目录)
 
@@ -409,6 +397,13 @@
 - [markdown](https://dillinger.io)
 - [图片压缩](https://tinypng.com)
 - [流程图，思维导图、UML、网络拓扑图](https://www.processon.com/)
+
+[⬆️ 返回首页](#目录)
+
+## 小程序相关
+
+- [mpvue 开发框架](https://github.com/Meituan-Dianping/mpvue)
+- [wepy 组件库](https://github.com/Tencent/wepy)
 
 [⬆️ 返回首页](#目录)
 
@@ -817,6 +812,22 @@
 - [ulid](https://github.com/alizain/ulid) - 生成UUID类库
 - [RSA](http://www.ohdave.com/rsa/) 用RSA加密实现Web数据加密传输
 - [crypto](https://nodejs.org/api/crypto.html) Node.js 的 api
+
+[⬆️ 返回首页](#目录)
+
+## 前端游戏框架
+- [cocos2d-html5](https://github.com/cocos2d/cocos2d-html5)
+- [Egret Engine](http://www.egret-labs.org/)
+- [LimeJS](https://github.com/digitalfruit/limejs)
+- [EaselJS](https://github.com/CreateJS/EaselJS)
+- [three.js](https://github.com/mrdoob/three.js)
+- [AlloyStick](https://github.com/AlloyTeam/AlloyStick)
+- [The-Best-JS-Game-Framework](https://github.com/finscn/The-Best-JS-Game-Framework)
+- [CanvasEngine](https://github.com/RSamaium/CanvasEngine)
+- [Quintus](https://github.com/cykod/Quintus)
+- [Stage.js](https://github.com/piqnt/stage.js/)
+- [phaser - 一个快速、免费、开源的 HTML5 游戏框架](https://github.com/photonstorm/phaser/)
+- [lufylegend.js](https://github.com/lufylegend/lufylegend.js)
 
 [⬆️ 返回首页](#目录)
 
