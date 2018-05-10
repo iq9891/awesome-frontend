@@ -2,7 +2,7 @@
 > 前端资源总览
 
 [![Fork front-end-awesome](https://img.shields.io/github/forks/iq9891/awesome-frontend.svg?style=flat&label=Fork)](https://github.com/iq9891/front-end-awesome/fork)
-[![Star front-end-awesome](https://img.shields.io/github/stars/iq9891/awesome-frontend.svg?style=flat&label=Star)](https://github.com/iq9891/awesome-frontend/stargazers)
+[![Star front-end-awesome](https://img.shields.io/github/stars/iq9891/aw2esome-frontend.svg?style=flat&label=Star)](https://github.com/iq9891/awesome-frontend/stargazers)
 [![watchers in front-end-awesome](https://img.shields.io/github/watchers/iq9891/awesome-frontend.svg?style=flat&label=Watch)](https://github.com/iq9891/awesome-frontend/watchers)
 
 ## 目录
@@ -414,8 +414,10 @@
 
 ## 小程序相关
 
-- [mpvue 开发框架](https://github.com/Meituan-Dianping/mpvue)
+- [mpvue 开发框架](https://github.com/Meituan-Dianping/mpvue) vue 一键打包转换小程序
 - [wepy 组件库](https://github.com/Tencent/wepy)
+- [wx-mina-html-view](https://github.com/Tencent/wepy) 小程序渲染 html ，支持富文本渲染
+- [wxapp-qrcode](https://github.com/demi520/wxapp-qrcode) 小程序二维码生成器
 
 [⬆️ 返回首页](#目录)
 
