@@ -692,7 +692,9 @@
 - [Vide - 视频背景](https://github.com/VodkaBears/Vide)
 - [winamp2-js](https://github.com/captbaritone/winamp2-js)
 - [Buzz - A Javascript HTML5 Audio library](https://github.com/jaysalvat/buzz)
-- [MediaElement.js](http://github.com/johndyer/mediaelement/)
+- [MediaElement.js](https://github.com/mediaelement/mediaelement) 播放器 jquery 插件
+- [html-canvas-video-player](https://github.com/Stanko/html-canvas-video-player) 支持 iOS 和 Android 的播放器
+-[iphone-inline-video](https://github.com/bfred-it/iphone-inline-video) 让视频在iPhone上内联播放（防止自动全屏显示）
 
 [⬆️ 返回首页](#目录)
 
