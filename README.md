@@ -161,6 +161,7 @@
 - [eruda](https://github.com/liriliri/eruda)
 - [vConsole](https://github.com/Tencent/vConsole)
 - [vue-pretty-logger](https://github.com/TaroXin/vue-pretty-logger) 一个还在持续更新的本地 log 输出插件
+- [signale](https://github.com/klauscfhq/signale) Hackable console logger
 
 [⬆️ 返回首页](#目录)
 
