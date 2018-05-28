@@ -77,6 +77,7 @@
 - [动画(Animate)](#动画animate)
 - [本地存储](#本地存储)
 - [模板引擎](#模板引擎)
+- [算法](#算法)
 - [加密/转码](#加密转码)
 - [前端游戏框架](#前端游戏框架)
 - [计算机相关书籍](#计算机相关书籍)
@@ -100,7 +101,6 @@
 - [前端面试](#前端面试)
   - [面试教科书](#面试教科书)
   - [Vue.js](#vuejs)
-  - [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) 流行的前端面试手册
 
 ----
 
@@ -834,6 +834,12 @@
 
 [⬆️ 返回首页](#目录)
 
+### 算法
+
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) 用JavaScript实现的算法和数据结构，并提供解释和进一步阅读的链接
+
+[⬆️ 返回首页](#目录)
+
 ## 加密/转码
 - [crypto-js](https://github.com/brix/crypto-js)
 - [ulid](https://github.com/alizain/ulid) - 生成UUID类库
@@ -1141,6 +1147,7 @@
 
 ### 面试教科书
 
+- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) 流行的前端面试手册
 - [笔试面试知识整理](https://github.com/HIT-Alibaba/interview) - 打开其 Gitbook 上的地址我都惊呆了。虽然有部分内容待完善，但是光浏览目录都是享受。
 - [在 LinkedIn 做面试官的故事](http://dongfei.baijia.baidu.com/article/52449) - 非面试题，介绍 LinkedIn 的面试过程 文章有很多中肯的建议和想法，推荐阅读
 - [大漠：写给前端面试者](http://www.w3cplus.com/css/write-to-front-end-developer-interview.html) - 这篇文章不涉及任何的面试题 大漠与大家聊聊面试者与被面者之间的感受...
