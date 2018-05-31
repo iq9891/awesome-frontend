@@ -101,7 +101,7 @@
 - [前端面试](#前端面试)
   - [面试教科书](#面试教科书)
   - [Vue.js](#vuejs)
-
+- [持续集成](#持续集成)
 ----
 
 ## Vue.js 专栏
@@ -1159,5 +1159,19 @@
 ### Vue.js
 
 - [面试官: 实现双向绑定Proxy比defineproperty优劣如何?](https://juejin.im/post/5acd0c8a6fb9a028da7cdfaf)
+
+[⬆️ 返回首页](#目录)
+
+### 持续集成
+
+- [CircleCI](https://circleci.com) - 一个持续集成的平台
+- [GitlabCi](https://about.gitlab.com/gitlab-ci/) - GITLAB 持续集成
+- [Jenkins](https://jenkins.io/index.html) - 一个支持 [PHP](http://jenkins-php.org/index.html) 的连续集成平台
+- [JoliCi](https://github.com/jolicode/JoliCi) - 一个用 PHP 编写并由 DOCKER 供电的持续集成客户端
+- [PHPCI](https://www.phptesting.org/) - 一个开源的PHP连续集成平台
+- [SemaphoreCI](https://semaphoreci.com/) - 开源和私人项目的持续集成平台
+- [Shippable](https://www.shippable.com/) - 一个基于 DOCKER 的开源和私有项目的连续集成平台
+- [Travis CI](https://travis-ci.org/) - 持续整合平台
+- [Wercker](http://www.wercker.com/) - 持续整合平台
 
 [⬆️ 返回首页](#目录)
