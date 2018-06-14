@@ -154,6 +154,7 @@
 - [lazy.js](https://github.com/dtao/lazy.js) 像 underscore.js 的工具库
 - [licia](https://github.com/liriliri/licia)
 - [underscore.js](https://github.com/jashkenas/underscore)
+- [rgbaster.js](https://github.com/briangonzalez/rgbaster.js) 图片的主色次色提取
 
 [⬆️ 返回首页](#目录)
 
