@@ -142,6 +142,7 @@
 - [immutable-js 数据集控制](https://github.com/facebook/immutable-js)
 - [sprint](https://github.com/bendc/sprint)
 - [dayjs](https://github.com/xx45/dayjs?utm_source=gold_browser_extension) 在javascript中解析，验证，操作和显示日期，类似 moment
+- [fecha](https://github.com/taylorhakes/fecha) 小巧的时间格式化库
 - [tui.calendar](https://github.com/nhnent/tui.calendar) 日历库
 - [em-cookie](https://github.com/em-fe/em-cookie) cookie 的处理
 - [EM-NORMALIZE](https://github.com/em-fe/EM-NORMALIZE) 样式重置
