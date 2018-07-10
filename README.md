@@ -14,6 +14,7 @@
 - [JavaScript 库](#javascript-库)
   - [工具函数类](#工具函数类)
   - [调试工具](#调试工具)
+- [数据模拟](#数据模拟)
 - [动画库](#动画库)
 - [UI 框架](#ui-框架)
   - [基于 Vue.js](#基于-vuejs)
@@ -163,6 +164,15 @@
 - [vConsole](https://github.com/Tencent/vConsole)
 - [vue-pretty-logger](https://github.com/TaroXin/vue-pretty-logger) 一个还在持续更新的本地 log 输出插件
 - [signale](https://github.com/klauscfhq/signale) Hackable console logger
+
+[⬆️ 返回首页](#目录)
+
+## 数据模拟
+
+- [mockjs](http://mockjs.com)
+- [easy-mock](https://www.easy-mock.com/)
+- [json-generator](https://www.json-generator.com/)
+- [json-server](https://github.com/typicode/json-server)
 
 [⬆️ 返回首页](#目录)
 
