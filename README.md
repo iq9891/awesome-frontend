@@ -232,6 +232,7 @@
 - [Amaze UI](http://amazeui.org/)
 - [Semantic UI](https://github.com/semantic-org/semantic-ui)
 - [Materialize](https://github.com/Dogfalo/materialize)
+- [jquery-cropper](https://github.com/fengyuanchen/jquery-cropper) 图片截取器， 图片截图
 
 [⬆️ 返回首页](#目录)
 
@@ -275,7 +276,7 @@
 - [http-server](https://github.com/indexzero/http-server) 零配置的命令行 http 服务器
 - [http-serve](https://github.com/indexzero/http-serve) 零配置的命令行 http 服务器
 - [nvm](https://github.com/creationix/nvm) node 版本控制
-- [json-server](https://github.com/typicode/json-server) 在不到30秒的时间内获得一个完整的虚假REST API，零代码
+- [cropperjs](https://github.com/fengyuanchen/cropperjs) 图片截取器，图片截图
 
 [⬆️ 返回首页](#目录)
 
@@ -425,6 +426,7 @@
 - [markdown](https://dillinger.io)
 - [图片压缩](https://tinypng.com)
 - [流程图，思维导图、UML、网络拓扑图](https://www.processon.com/)
+- [jsdiff](http://incaseofstairs.com/jsdiff/) 在线对比工具
 
 [⬆️ 返回首页](#目录)
 
@@ -758,12 +760,32 @@
 ## 颜色(CSS Colors)/SVG/Canvas
 
 - [CSS Colours](http://colours.neilorangepeel.com/)
+- [Adaptive Backgrounds](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) 从图片抽取主要颜色和应用到父元素
+
+[⬆️ 返回首页](#目录)
+
+### svg
+
+- [svg.js](https://github.com/svgdotjs/svg.js) 轻量级动画库
 - [SVGeneration](http://www.svgeneration.com/)
-- [SVGMagic - 自动的创建PNG来兼容不支持SVG的浏览器](https://github.com/dirkgroenen/SVGMagic)
-- [Adaptive Backgrounds - 从图片抽取主要颜色和应用到父元素](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js)
-- [Seen.js - 渲染3D场景为SVG或者HTML Canvas](https://github.com/themadcreator/seen)
+- [SVGMagic - 自动的创建 PNG 来兼容不支持 SVG 的浏览器](https://github.com/dirkgroenen/SVGMagic)
+- [Seen.js - 渲染 3D 场景为 SVG 或者 HTML Canvas](https://github.com/themadcreator/seen)
+
+[⬆️ 返回首页](#目录)
+
+### 颜色
+
 - [jquery-color - 可以动态改动颜色](https://github.com/jquery/jquery-color/)
 - [lee-colorpicker](https://github.com/iq9891/lee-colorpicker)
+
+[⬆️ 返回首页](#目录)
+
+### Canvas
+
+- [html2canvas](https://github.com/niklasvh/html2canvas) HTML 排版，用 canvas 截图
+- [domvas](https://github.com/pbakaus/domvas) 连接 DOM 和 Canvas 的缺失部分
+- [dom-to-image](https://github.com/tsayen/dom-to-image) 用 canvas 使用 HTML5 画布从 DOM 节点生成图像
+- [rasterizeHTML.js](https://github.com/cburgmer/rasterizeHTML.js) 将 HTML 呈现到浏览器的 canvas 中
 
 [⬆️ 返回首页](#目录)
 
