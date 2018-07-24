@@ -12,6 +12,7 @@
   - [知名流行的框架](#知名流行的框架)
   - [框架的学习](#框架的学习)
 - [JavaScript 库](#javascript-库)
+  - [物理引擎](#物理引擎)
   - [工具函数类](#工具函数类)
   - [调试工具](#调试工具)
 - [数据模拟](#数据模拟)
@@ -147,6 +148,12 @@
 - [em-cookie](https://github.com/em-fe/em-cookie) cookie 的处理
 - [EM-NORMALIZE](https://github.com/em-fe/EM-NORMALIZE) 样式重置
 - [intro.js](https://github.com/usablica/intro.js) 为您的网站和项目提供新功能介绍和逐步用户指南的更好方式。可用于新手指引，功能介绍，更新指引等。
+
+[⬆️ 返回首页](#目录)
+
+### 物理引擎
+- [p2.js](https://github.com/schteppe/p2.js) 物理引擎
+- [matter-js](https://github.com/liabru/matter-js) 用于网络的2D刚体物理引擎
 
 [⬆️ 返回首页](#目录)
 
