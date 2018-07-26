@@ -17,6 +17,7 @@
   - [调试工具](#调试工具)
 - [数据模拟](#数据模拟)
 - [动画库](#动画库)
+- [二维码](#二维码)
 - [UI 框架](#ui-框架)
   - [基于 Vue.js](#基于-vuejs)
   - [基于 react](#基于-react)
@@ -189,6 +190,13 @@
 - [velocity](https://github.com/julianshapiro/velocity)
 - [GreenSock-JS](https://github.com/greensock/GreenSock-JS/)
 - [tween.js](https://github.com/tweenjs/tween.js)
+
+[⬆️ 返回首页](#目录)
+
+## 二维码
+
+- [qrious](https://github.com/neocotic/qrious) - Pure JavaScript library for QR code generation using canvas。
+- [qart.js](https://github.com/kciter/qart.js) - Generate artistic QR code.
 
 [⬆️ 返回首页](#目录)
 
