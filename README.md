@@ -190,6 +190,7 @@
 - [velocity](https://github.com/julianshapiro/velocity)
 - [GreenSock-JS](https://github.com/greensock/GreenSock-JS/)
 - [tween.js](https://github.com/tweenjs/tween.js)
+- [anime](https://github.com/juliangarnier/anime)
 
 [⬆️ 返回首页](#目录)
 
