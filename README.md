@@ -71,6 +71,7 @@
   - [缩放 (Zooming)](#缩放-zooming)
   - [下载组件](#下载组件)
   - [Ajax模块](#ajax模块)
+  - [字体资源](#字体资源)
 - [音频/视频](#音频视频)
 - [APP 框架](#app-框架)
 - [CSS 框架](#css-框架)
@@ -706,6 +707,12 @@
 - [jsonp](https://github.com/webmodules/jsonp)跨域处理
 - [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch)
 - [em-jsonp](https://github.com/em-fe/em-jsonp) 跨域处理
+
+[⬆️ 返回首页](#目录)
+
+### 字体资源
+
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
 
 [⬆️ 返回首页](#目录)
 
