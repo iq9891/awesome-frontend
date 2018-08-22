@@ -298,6 +298,7 @@
 - [http-serve](https://github.com/indexzero/http-serve) 零配置的命令行 http 服务器
 - [nvm](https://github.com/creationix/nvm) node 版本控制
 - [cropperjs](https://github.com/fengyuanchen/cropperjs) 图片截取器，图片截图
+- [svgo](https://github.com/svg/svgo) Node.js tool for optimizing SVG files
 
 [⬆️ 返回首页](#目录)
 
