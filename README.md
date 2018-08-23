@@ -46,6 +46,7 @@
   - [图标管理](#图标管理)
   - [其他](其他)
 - [小程序相关](#小程序相关)
+- [命令行工具](#命令行工具)
 - [UA 识别](#ua-识别)
 - [页面交互](#页面交互)
   - [Slider](#slider)
@@ -460,6 +461,34 @@
 - [wxapp-qrcode](https://github.com/demi520/wxapp-qrcode) 小程序二维码生成器
 
 [⬆️ 返回首页](#目录)
+
+## 命令行工具
+
+- [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) 重型终端用户的小型bash脚本集合
+- [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) 一个类似于ack的代码搜索工具，但速度更快。 查找 */#/* 用法： `ag '\/#\/'`
+- [fzf](https://github.com/junegunn/fzf) 模糊搜索神器
+- [tldr](https://github.com/tldr-pages/tldr) 查看 linux命令帮助(Too long, Don't read)
+- [autojump](https://github.com/wting/autojump) 快速切换常用目录 `j dir_name`
+- [fuck](https://github.com/nvbn/thefuck) 纠正工具
+- [k](https://github.com/supercrabtree/k) 命令行美化工具， 美化 `ll` 命令
+- [so](https://github.com/ca0gu0/so) SSH远程登录工具
+- [hr](https://github.com/LuRsT/hr) 用于在终端展示分行符
+- [nnn](https://github.com/jarun/nnn) 文件管理器
+- [autoenv](https://github.com/kennethreitz/autoenv) 基于目录的环境配置
+- [mackup](https://github.com/lra/mackup) .dotfile 管理工具
+- [hub](https://hub.github.com/) - 更易使用 Git 的
+- [glances](https://github.com/nicolargo/glances) 系统监视(可替代 top)
+- [goaccess](https://github.com/allinurl/goaccess) - 运行于 \*nix 系统终端中的实时 web 日志分析器及交互式查看器
+- [tcplstat](https://github.com/calvinwilliams/tcplstat) 网络监控工具
+- [cz-cli](https://github.com/commitizen/cz-cli) - git commit 工具
+- [tig](https://github.com/jonas/tig) git log 查看工具
+- [cheat.sh](https://github.com/chubin/cheat.sh) 是一个实用的速查
+- [neofetch](https://github.com/dylanaraps/neofetch) 个性化显示Linux系统信息
+- [hiper](https://github.com/pod4g/hiper) 一个查看网页加载性能的命令行程序
+- [lazygit](https://github.com/jesseduffield/lazygit) simple terminal UI for git commands
+
+[⬆️ 返回首页](#目录)
+
 
 ## UA 识别
 
