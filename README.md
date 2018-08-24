@@ -47,6 +47,7 @@
   - [其他](其他)
 - [小程序相关](#小程序相关)
 - [命令行工具](#命令行工具)
+- [谷歌插件](#谷歌插件)
 - [UA 识别](#ua-识别)
 - [页面交互](#页面交互)
   - [Slider](#slider)
@@ -54,7 +55,7 @@
   - [懒加载/加载监听/预加载](#懒加载加载监听预加载)
   - [图片轮播(幻灯片)/图片展示](#图片轮播幻灯片图片展示)
   - [图片剪裁/图片处理](#图片剪裁图片处理)
-  - [进度条/加载动画(Loading)](#进度条加载动画loading)
+  - [进度条/加载(Loading)](#进度条加载loading)
   - [侧滑插件(offcancas)](#侧滑插件offcancas)
   - [菜单(Menu)](#菜单menu)
   - [滚动侦测(ScrollSpy)](#滚动侦测scrollspy)
@@ -79,27 +80,16 @@
 - [富文本编辑器/Markdown编辑器/Markdown解析器](#富文本编辑器markdown编辑器markdown解析器)
 - [颜色(CSS Colors)/SVG/Canvas](#颜色css-colorssvgcanvas)
 - [代码高亮插件/代码编辑器](#代码高亮插件代码编辑器)
-- [动画(Animate)](#动画animate)
 - [本地存储](#本地存储)
 - [模板引擎](#模板引擎)
 - [算法](#算法)
 - [加密/转码](#加密转码)
 - [前端游戏框架](#前端游戏框架)
 - [计算机相关书籍](#计算机相关书籍)
-  - [操作系统](#操作系统)
-  - [智能系统](#智能系统)
-  - [分布式系统](#分布式系统)
-  - [编译原理](#编译原理)
-  - [函数式概念](#函数式概念)
-  - [计算机图形学](#计算机图形学)
   - [WEB服务器](#WEB服务器)
-  - [版本控制](#版本控制)
   - [编辑器](#编辑器)
-  - [管理和监控](#管理和监控)
-  - [项目相关](#项目相关)
-  - [设计模式](#设计模式)
+  - [版本控制](#版本控制)
   - [Web 前端](#web-前端)
-  - [编程艺术](#编程艺术)
   - [JavaScript](#javascript)
   - [Shell](#shell)
   - [读书笔记及其它](#读书笔记及其它)
@@ -195,6 +185,37 @@
 - [GreenSock-JS](https://github.com/greensock/GreenSock-JS/)
 - [tween.js](https://github.com/tweenjs/tween.js)
 - [anime](https://github.com/juliangarnier/anime)
+- [animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations.
+- [Transit](https://github.com/rstacruz/jquery.transit) - CSS transitions and transformations for jQuery
+- [WOW](https://github.com/matthieua/WOW) - 在滚动过程中展示CSS效果(默认触发animate.css)
+- [AniJS](https://github.com/anijs/anijs/) - A Library to Raise your Web Design without Coding
+- [Move.js](https://github.com/visionmedia/move.js) - 简化CSS3的JS库
+- [ScrollMe](https://github.com/nckprsn/scrollme) – 在网页中加入各种滚动效果
+- [Effeckt.css](https://github.com/h5bp/Effeckt.css) - A Performant Transitions and Animations Library
+- [NEC](http://nec.netease.com/library/category/#animation)
+- [csshake](https://github.com/elrumordelaluz/csshake) - CSS classes to move your DOM
+- [magic](https://github.com/miniMAC/magic) - CSS3 Animations with special effects
+- [SpinKit](https://github.com/tobiasahlin/SpinKit)
+- [lenticular.js](https://github.com/thomasxiii/lenticular.js) - 响应倾斜或鼠标事件创建图片
+- [interactive_3d](https://github.com/peachananr/interactive_3d) - jQuery Interactive 3D - Create a 3D interactive object using images
+- [AnimateScroll ](https://github.com/ramswaroop/animatescroll.js) - A Simple jQuery Plugin for Animating Scroll
+- [Blast.js](https://github.com/julianshapiro/blast)
+- [Bounce.js](https://github.com/tictail/bounce.js) - A JS library for making beautiful CSS3 keyframe animations
+- [Sticker.js](https://github.com/cmiscm/stickerjs) - create a Sticker Effect
+- [scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js) - The element enters the visible area and automatically triggers the set animation.
+- [stroll.js - CSS3 list scroll effects](https://github.com/hakimel/stroll.js)
+- [jQuery Easing](https://github.com/gdsmith/jquery.easing) -  运动方式扩展
+- [animations](http://www.justinaguilar.com/animations/index.html) - CSS3 ANIMATION CHEAT SHEET
+- [iconate.js](https://github.com/bitshadow/iconate) - 将 icons 增加运动效果的 JS 库
+- [Odometer](https://github.com/HubSpot/odometer) - 数字之间的垂直切换
+- Hover - 悬停效果
+  - [Hover.css](https://github.com/IanLunn/Hover) - 很多鼠标Hover态的效果
+  - [imagehover.css](https://github.com/ciar4n/imagehover.css) - 为图片添加悬停效果
+  - [iHover - 图片悬停效果](https://github.com/gudh/ihover)
+  - [ImageCaptionHoverAnimation](https://github.com/hasinhayder/ImageCaptionHoverAnimation)
+  - [Bootstrap Hover Image Gallery](http://miketricking.github.io/dist/)
+- Multi-touch gestures library - Web手势库
+  - [AlloyFinger - 腾讯 AlloyTeam 出品的超级小的 Web 手势库](https://github.com/AlloyTeam/AlloyFinger)
 
 [⬆️ 返回首页](#目录)
 
@@ -489,6 +510,37 @@
 
 [⬆️ 返回首页](#目录)
 
+## 谷歌插件
+
+- WEB前端助手(FeHelper) - 一些前端常用的功能都有，方便实用
+- Vue.js devTools - Vue 开发工具
+- React Developer Tools - React 开发工具
+- Redux DevTools - Redux 开发工具
+- 书签侧边栏 - 非常方便搜索已经保存的书签，可以自由设定触发条件
+- Postman - ajax 工具
+- Json Formatter - json 解析工具
+- Allow-Control-Allow-Origin: * - 跨域工具
+- Axure RP Extension for Chrome -  预览工具
+- Clear Cache - 清除缓存工具
+- DuckDuckGo Privacy Essentials - DuckDuckGo 搜索工具
+- Enhanced Github - github 工具
+- Google 翻译
+- HTTP Status - http 状态管理
+- jQuery API 中文文档
+- Nodei.co: npm badges for GitHub - github 工具
+- Octotree - github 工具
+- Open SEO Stats(Formerly: PageRank Status) - seo 工具
+- PageSpeed Insights (with PNaCl) - 网页速度检测工具
+- User-Agent Switcher - UA 工具
+- Vimium - vim 工具
+- Web Developer - 开发者工具
+- 二维码网址
+- 掘金
+- EditThisCookie - 操作cookie的插件
+- Image Downloader - 可以自动分析网页内图片并下载你需要的
+
+[⬆️ 返回首页](#目录)
+
 
 ## UA 识别
 
@@ -576,7 +628,7 @@
 
 [⬆️ 返回首页](#目录)
 
-### 进度条/加载动画(Loading)
+### 进度条/加载(Loading)
 
 - [NProgress.js](http://ricostacruz.com/nprogress/)
 - [progress.js](https://github.com/usablica/progress.js)
@@ -587,7 +639,7 @@
 - [spin.js](https://github.com/fgnass/spin.js)
 - [sonic.js](https://github.com/padolsey/sonic.js)
 - [fakeLoader.js](https://github.com/joaopereirawd/fakeLoader.js)
-- [loaders.css - 一个为性能优化的实现加载动画效果的 CSS 框架](https://github.com/ConnorAtherton/loaders.css)
+- [loaders.css - 一个为性能优化的实现加载效果的 CSS 框架](https://github.com/ConnorAtherton/loaders.css)
 - [css-loaders](https://github.com/lukehaas/css-loaders)
 - [Sausage - 跟踪滚动条并记录当前阅读所处节点](https://github.com/christophercliff/sausage)
 - [loading.io](https://loading.io/) - 一个 Loading 图标的网站
@@ -823,7 +875,7 @@
 
 ### svg
 
-- [svg.js](https://github.com/svgdotjs/svg.js) 轻量级动画库
+- [svg.js](https://github.com/svgdotjs/svg.js) Lightweight animation library
 - [SVGeneration](http://www.svgeneration.com/)
 - [SVGMagic - 自动的创建 PNG 来兼容不支持 SVG 的浏览器](https://github.com/dirkgroenen/SVGMagic)
 - [Seen.js - 渲染 3D 场景为 SVG 或者 HTML Canvas](https://github.com/themadcreator/seen)
@@ -855,44 +907,6 @@
 - [CodeMirror](https://github.com/codemirror/codemirror)
 - [Crayon Syntax Highlighter](https://github.com/aramk/crayon-syntax-highlighter)
 - [prism - Lightweight, robust, elegant syntax highlighting.](https://github.com/PrismJS/prism)
-
-[⬆️ 返回首页](#目录)
-
-## 动画(Animate)
-
-- [animate.css - A cross-browser library of CSS animations.](https://github.com/daneden/animate.css)
-- [Transit - CSS transitions and transformations for jQuery](https://github.com/rstacruz/jquery.transit)
-- [anime.js - Javascript 动画引擎](https://github.com/juliangarnier/anime)
-- [WOW - 在滚动过程中展示CSS动画效果(默认触发animate.css动画)](https://github.com/matthieua/WOW)
-- [AniJS - A Library to Raise your Web Design without Coding](https://github.com/anijs/anijs/)
-- [Move.js - 简化CSS3动画的JS库](https://github.com/visionmedia/move.js)
-- [ScrollMe – 在网页中加入各种滚动动画效果](https://github.com/nckprsn/scrollme)
-- [Effeckt.css - A Performant Transitions and Animations Library](https://github.com/h5bp/Effeckt.css)
-- [NEC动画库](http://nec.netease.com/library/category/#animation)
-- [csshake - CSS classes to move your DOM](https://github.com/elrumordelaluz/csshake)
-- [magic - CSS3 Animations with special effects](https://github.com/miniMAC/magic)
-- [SpinKit](https://github.com/tobiasahlin/SpinKit)
-- [Velocity.js - 加速JavaScript动画](https://github.com/julianshapiro/velocity)
-- [lenticular.js - 响应倾斜或鼠标事件创建图片动画](https://github.com/thomasxiii/lenticular.js)
-- [jQuery Interactive 3D - Create a 3D interactive object using images](https://github.com/peachananr/interactive_3d)
-- [AnimateScroll - A Simple jQuery Plugin for Animating Scroll](https://github.com/ramswaroop/animatescroll.js)
-- [Blast.js - 把动画和样式注入到文本中](https://github.com/julianshapiro/blast)
-- [Bounce.js - 一个用于制作漂亮 CSS3 关键帧动画的 JS 库](https://github.com/tictail/bounce.js)
-- [Sticker.js - create a Sticker Effect](https://github.com/cmiscm/stickerjs)
-- [scrollReveal.js - 元素进入可视区域自动触发设置好的动画](https://github.com/julianlloyd/scrollReveal.js)
-- [stroll.js - CSS3 list scroll effects](https://github.com/hakimel/stroll.js)
-- [jQuery Easing -  动画效果扩展](https://github.com/gdsmith/jquery.easing)
-- [animations - CSS3 ANIMATION CHEAT SHEET](http://www.justinaguilar.com/animations/index.html)
-- [iconate.js：将 icons 增加动画效果的 JS 库](https://github.com/bitshadow/iconate)
-- [Odometer - 数字之间的垂直切换](https://github.com/HubSpot/odometer)
-- Hover - 悬停效果
-  - [Hover.css - 很多鼠标Hover态的效果](https://github.com/IanLunn/Hover)
-  - [imagehover.css - 为图片添加悬停效果](https://github.com/ciar4n/imagehover.css)
-  - [iHover - 图片悬停效果](https://github.com/gudh/ihover)
-  - [ImageCaptionHoverAnimation](https://github.com/hasinhayder/ImageCaptionHoverAnimation)
-  - [Bootstrap Hover Image Gallery](http://miketricking.github.io/dist/)
-- Multi-touch gestures library - Web手势库
-  - [AlloyFinger - 腾讯 AlloyTeam 出品的超级小的 Web 手势库](https://github.com/AlloyTeam/AlloyFinger)
 
 [⬆️ 返回首页](#目录)
 
@@ -958,8 +972,6 @@
 
 ## 计算机相关书籍
 
-### 操作系统
-
 - [开源世界旅行手册](http://i.linuxtoy.org/docs/guide/index.html)
 - [鸟哥的Linux私房菜](http://vbird.dic.ksu.edu.tw/)
 - [The Linux Command Line](http://billie66.github.io/TLCL/index.html) (中英文版)
@@ -982,32 +994,39 @@
 - [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 - [SystemTap新手指南](https://spacewander.gitbooks.io/systemtapbeginnersguide_zh/content/index.html)
 - [操作系统思考](https://github.com/wizardforcel/think-os-zh)
-
-[⬆️ 返回首页](#目录)
-
-### 智能系统
 - [一步步搭建物联网系统](https://github.com/phodal/designiot)
-
-[⬆️ 返回首页](#目录)
-
-### 分布式系统
 - [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
-
-[⬆️ 返回首页](#目录)
-
-### 编译原理
 - [《计算机程序的结构和解释》公开课 翻译项目](https://github.com/DeathKing/Learning-SICP)
-
-[⬆️ 返回首页](#目录)
-
-### 函数式概念
 - [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn)
-
-[⬆️ 返回首页](#目录)
-
-### 计算机图形学
 - [OpenGL 教程](https://github.com/zilongshanren/opengl-tutorials)
 - [WebGL自学网](http://html5.iii.org.tw/course/webgl/)
+- [ELKstack 中文指南](http://kibana.logstash.es)
+- [Mastering Elasticsearch(中文版)](http://udn.yyuap.com/doc/mastering-elasticsearch/)
+- [ElasticSearch 权威指南](https://www.gitbook.com/book/fuxiaopang/learnelasticsearch/details)
+- [Elasticsearch 权威指南（中文版）](http://es.xiaoleilu.com)
+- [Logstash 最佳实践](https://github.com/chenryn/logstash-best-practice-cn)
+- [Puppet 2.7 Cookbook 中文版](http://bbs.konotes.org/workdoc/puppet-27/)
+- [持续集成（第二版）](http://article.yeeyan.org/view/2251/94882) (译言网)
+- [让开发自动化系列专栏](http://www.ibm.com/developerworks/cn/java/j-ap/)
+- [追求代码质量](http://www.ibm.com/developerworks/cn/java/j-cq/)
+- [selenium 中文文档](https://github.com/fool2fish/selenium-doc)
+- [Selenium Webdriver 简易教程](http://it-ebooks.flygon.net/selenium-simple-tutorial/)
+- [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_\(Simplified\))
+- [約耳談軟體(Joel on Software)](http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81)
+- [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
+- [Gradle 中文使用文档](http://yuedu.baidu.com/ebook/f23af265998fcc22bcd10da2)
+- [编码规范](https://github.com/ecomfe/spec)
+- [开源软件架构](http://www.ituring.com.cn/book/1143)
+- [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
+- [GNU make 中文手册](http://www.yayu.org/book/gnu_make/)
+- [The Twelve-Factor App](http://12factor.net/zh_cn/)
+- [图说设计模式](https://github.com/me115/design_patterns)
+- [史上最全设计模式导学目录](http://blog.csdn.net/lovelion/article/details/17517213)
+- [design pattern 包教不包会](https://github.com/AlfredTheBest/Design-Pattern)
+- [设计模式 Java 版](https://quanke.gitbooks.io/design-pattern-java/content/)
+- [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
+- [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
+- [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
 
 [⬆️ 返回首页](#目录)
 
@@ -1032,45 +1051,6 @@
 - [一年成为 Emacs 高手](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)
 - [Emacs 生存指南](http://lifegoo.pluskid.org/upload/blog/152/Survive.in.Emacs.pdf)
 - [Atom官方手册](https://atom-china.org/t/atom/62)
-
-[⬆️ 返回首页](#目录)
-
-### 管理和监控
-
-- [ELKstack 中文指南](http://kibana.logstash.es)
-- [Mastering Elasticsearch(中文版)](http://udn.yyuap.com/doc/mastering-elasticsearch/)
-- [ElasticSearch 权威指南](https://www.gitbook.com/book/fuxiaopang/learnelasticsearch/details)
-- [Elasticsearch 权威指南（中文版）](http://es.xiaoleilu.com)
-- [Logstash 最佳实践](https://github.com/chenryn/logstash-best-practice-cn)
-- [Puppet 2.7 Cookbook 中文版](http://bbs.konotes.org/workdoc/puppet-27/)
-
-[⬆️ 返回首页](#目录)
-
-### 项目相关
-
-- [持续集成（第二版）](http://article.yeeyan.org/view/2251/94882) (译言网)
-- [让开发自动化系列专栏](http://www.ibm.com/developerworks/cn/java/j-ap/)
-- [追求代码质量](http://www.ibm.com/developerworks/cn/java/j-cq/)
-- [selenium 中文文档](https://github.com/fool2fish/selenium-doc)
-- [Selenium Webdriver 简易教程](http://it-ebooks.flygon.net/selenium-simple-tutorial/)
-- [Joel谈软件](http://local.joelonsoftware.com/wiki/Chinese_\(Simplified\))
-- [約耳談軟體(Joel on Software)](http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81)
-- [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
-- [Gradle 中文使用文档](http://yuedu.baidu.com/ebook/f23af265998fcc22bcd10da2)
-- [编码规范](https://github.com/ecomfe/spec)
-- [开源软件架构](http://www.ituring.com.cn/book/1143)
-- [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
-- [GNU make 中文手册](http://www.yayu.org/book/gnu_make/)
-- [The Twelve-Factor App](http://12factor.net/zh_cn/)
-
-[⬆️ 返回首页](#目录)
-
-### 设计模式
-
-- [图说设计模式](https://github.com/me115/design_patterns)
-- [史上最全设计模式导学目录](http://blog.csdn.net/lovelion/article/details/17517213)
-- [design pattern 包教不包会](https://github.com/AlfredTheBest/Design-Pattern)
-- [设计模式 Java 版](https://quanke.gitbooks.io/design-pattern-java/content/)
 
 [⬆️ 返回首页](#目录)
 
@@ -1103,14 +1083,6 @@
 - [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
 - [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
 - [站点可靠性工程](https://github.com/hellorocky/Site-Reliability-Engineering)
-
-[⬆️ 返回首页](#目录)
-
-### 编程艺术
-
-- [程序员编程艺术](https://github.com/julycoding/The-Art-Of-Programming-by-July)
-- [每个程序员都应该了解的内存知识(译)](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)【第一部分】
-- [取悦的工序：如何理解游戏](http://read.douban.com/ebook/4972883/) (豆瓣阅读，免费书籍)
 
 [⬆️ 返回首页](#目录)
 
