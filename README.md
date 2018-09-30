@@ -945,6 +945,7 @@
 ### 算法
 
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) 用JavaScript实现的算法和数据结构，并提供解释和进一步阅读的链接
+- [The Algorithms - Javascript](https://github.com/TheAlgorithms/Javascript) 算法集锦
 
 [⬆️ 返回首页](#目录)
 
