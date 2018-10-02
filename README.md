@@ -865,6 +865,7 @@
 - [xEditor - 富文本编辑器](https://github.com/iq9891/xEditor)
 - [veditor - 富文本编辑器](https://github.com/iq9891/veditor)
 - [medium-editor](https://github.com/yabwe/medium-editor) Vue.js 官方推荐支持 vue 的编辑器
+- [slate](https://github.com/ianstormtaylor/slate) 一个完全可定制的框架，用于构建富文本编辑器
 
 [⬆️ 返回首页](#目录)
 
