@@ -322,6 +322,7 @@
 - [cropperjs](https://github.com/fengyuanchen/cropperjs) 图片截取器，图片截图
 - [svgo](https://github.com/svg/svgo) Node.js tool for optimizing SVG files
 - [express-gateway](https://github.com/ExpressGateway/express-gateway) A microservices API Gateway built on top of ExpressJS
+- [node-rpio](https://github.com/jperkin/node-rpio) 这是一个高性能node.js插件，可以访问Raspberry Pi GPIO接口，支持常规GPIO以及i²c，PWM和SPI。
 
 [⬆️ 返回首页](#目录)
 
