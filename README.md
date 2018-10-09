@@ -142,6 +142,7 @@
 - [em-cookie](https://github.com/em-fe/em-cookie) cookie 的处理
 - [EM-NORMALIZE](https://github.com/em-fe/EM-NORMALIZE) 样式重置
 - [intro.js](https://github.com/usablica/intro.js) 为您的网站和项目提供新功能介绍和逐步用户指南的更好方式。可用于新手指引，功能介绍，更新指引等。
+- [modernizr](https://github.com/modernizr/modernizr) Modernizr是一个JavaScript库，可以在用户的​​浏览器中检测HTML5和CSS3功能。
 
 [⬆️ 返回首页](#目录)
 
