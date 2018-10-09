@@ -1095,6 +1095,7 @@
 
 ### JavaScript
 
+- [proposals](https://github.com/tc39/proposals) ECMAScript 提案
 - [Google JavaScript 代码风格指南](http://bq69.com/blog/articles/script/868/google-javascript-style-guide.html)
 - [Google JSON 风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
 - [Airbnb JavaScript 规范](https://github.com/adamlu/javascript-style-guide)
