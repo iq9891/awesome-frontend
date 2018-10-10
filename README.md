@@ -107,6 +107,7 @@
 - [em-ckeditor](https://github.com/em-fe/em-ckeditor) ckeditor 富文本编辑器的 Vue 版
 - [vue-icon](https://github.com/fe6/vue-icon) 简单的 icon 组件
 - [vue-baidu-map](https://github.com/Dafrok/vue-baidu-map) 百度地图的 vue 版
+- [tiptap](https://github.com/heyscrumpy/tiptap) A rich-text editor for Vue.js
 
 [⬆️ 返回首页](#目录)
 
@@ -869,6 +870,7 @@
 - [veditor - 富文本编辑器](https://github.com/iq9891/veditor)
 - [medium-editor](https://github.com/yabwe/medium-editor) Vue.js 官方推荐支持 vue 的编辑器
 - [slate](https://github.com/ianstormtaylor/slate) 一个完全可定制的框架，用于构建富文本编辑器
+- [tiptap](https://github.com/heyscrumpy/tiptap) A rich-text editor for Vue.js
 
 [⬆️ 返回首页](#目录)
 
