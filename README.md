@@ -15,6 +15,7 @@
   - [物理引擎](#物理引擎)
   - [工具函数类](#工具函数类)
   - [调试工具](#调试工具)
+- [学习资源](#学习资源)
 - [数据模拟](#数据模拟)
 - [动画库](#动画库)
 - [二维码](#二维码)
@@ -169,6 +170,17 @@
 - [vConsole](https://github.com/Tencent/vConsole)
 - [vue-pretty-logger](https://github.com/TaroXin/vue-pretty-logger) 一个还在持续更新的本地 log 输出插件
 - [signale](https://github.com/klauscfhq/signale) Hackable console logger
+
+[⬆️ 返回首页](#目录)
+
+## 学习资源
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) mac 电脑上面的资源
+- [awesome-frontend](https://github.com/JingwenTian/awesome-frontend) 前端资源
+- [awesome-php](https://github.com/JingwenTian/awesome-php) PHP 资源
+- [awesome-vue](https://github.com/vuejs/awesome-vue) Vue.js 资源
+- [awesome-react](https://github.com/enaqx/awesome-react) React 资源
+- [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) 微信小程序资源
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) NodeJs 资源
 
 [⬆️ 返回首页](#目录)
 
