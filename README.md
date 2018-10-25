@@ -105,6 +105,7 @@
 - [vue-cropper](https://github.com/xyxiao001/vue-cropper) 一个简单的图片剪辑插件，支持海报图片剪辑
 - [vue-pretty-logger](https://github.com/TaroXin/vue-pretty-logger) 一个还在持续更新的本地 log 输出插件
 - [vue-xeditor](https://github.com/iq9891/vue-xeditor) xEditor 富文本编辑器的 Vue 版
+- [ieditor](https://github.com/iq9891/ieditor) 富文本编辑器
 - [em-ckeditor](https://github.com/em-fe/em-ckeditor) ckeditor 富文本编辑器的 Vue 版
 - [vue-icon](https://github.com/fe6/vue-icon) 简单的 icon 组件
 - [vue-baidu-map](https://github.com/Dafrok/vue-baidu-map) 百度地图的 vue 版
