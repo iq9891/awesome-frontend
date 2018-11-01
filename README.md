@@ -163,6 +163,7 @@
 - [underscore.js](https://github.com/jashkenas/underscore)
 - [rgbaster.js](https://github.com/briangonzalez/rgbaster.js) 图片的主色次色提取
 - [nanoid](https://github.com/ai/nanoid) 一款非常小巧的唯一 ID 生成工具
+- [hotkeys](https://github.com/jaywcjlove/hotkeys) 键盘按键的封装，如 ctrl+r
 
 [⬆️ 返回首页](#目录)
 
