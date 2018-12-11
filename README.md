@@ -340,6 +340,7 @@
 - [express-gateway](https://github.com/ExpressGateway/express-gateway) A microservices API Gateway built on top of ExpressJS
 - [node-rpio](https://github.com/jperkin/node-rpio) 这是一个高性能node.js插件，可以访问Raspberry Pi GPIO接口，支持常规GPIO以及i²c，PWM和SPI。
 - [strapi](https://github.com/strapi/strapi) Node.js内容管理框架（headless-CMS）可以毫不费力地构建功能强大的API。
+- [jsPDF](https://github.com/MrRio/jsPDF) jsPDF 提供了一系列 API，可以在客户端生成图文并茂的 PDF 文档。
 
 [⬆️ 返回首页](#目录)
 
