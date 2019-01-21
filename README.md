@@ -164,6 +164,7 @@
 - [rgbaster.js](https://github.com/briangonzalez/rgbaster.js) 图片的主色次色提取
 - [nanoid](https://github.com/ai/nanoid) 一款非常小巧的唯一 ID 生成工具
 - [hotkeys](https://github.com/jaywcjlove/hotkeys) 键盘按键的封装，如 ctrl+r
+- [JsBarcode](https://github.com/lindell/JsBarcode) js 生成条形码(条码)
 
 [⬆️ 返回首页](#目录)
 
