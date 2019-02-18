@@ -1110,6 +1110,7 @@
 - [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
 - [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
 - [站点可靠性工程](https://github.com/hellorocky/Site-Reliability-Engineering)
+- [根据最佳的热门文章所总结出来的最完整的 Node.js 最佳实践，持续更新中](https://github.com/i0natan/nodebestpractices)
 
 [⬆️ 返回首页](#目录)
 
