@@ -1187,6 +1187,7 @@
     - [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
 - TypeScipt
     - [TypeScript Handbook](https://zhongsp.gitbooks.io/typescript-handbook/content/)
+    - [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial)
 - ExtJS
     - [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
 - Meteor
