@@ -1186,6 +1186,7 @@
     - [The Little Book on CoffeeScript中文版](http://island205.com/tlboc/)
     - [CoffeeScript 编码风格指南](https://github.com/geekplux/coffeescript-style-guide)
 - TypeScipt
+    - [TypeScript](https://github.com/Microsoft/TypeScript)
     - [TypeScript Handbook](https://zhongsp.gitbooks.io/typescript-handbook/content/)
     - [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial)
 - ExtJS
