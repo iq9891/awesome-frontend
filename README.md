@@ -466,6 +466,10 @@
 
 [⬆️ 返回首页](#目录)
 
+### 查阅
+
+- [emoji](https://github.com/muan/emoji) emoji 总览
+
 ### 图标管理
 
 - [icomoon](https://icomoon.io)
@@ -1246,7 +1250,7 @@
 
 [⬆️ 返回首页](#目录)
 
-### 持续集成
+## 持续集成
 
 - [CircleCI](https://circleci.com)
 - [GitlabCi](https://about.gitlab.com/gitlab-ci/)
