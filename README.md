@@ -36,7 +36,6 @@
 - [性能分析工具](#性能分析工具)
 - [包管理工具](#包管理工具)
 - [前端编码规范](#前端编码规范)
-- [项目集成及自动化](#项目集成及自动化)
 - [git 版本控制](#git-版本控制)
   - [仓库](#仓库)
   - [git 工具](#git-工具)
@@ -407,16 +406,6 @@
 - [JavaScript Standard Style](https://github.com/feross/standard)
 - [clean-code-javascript - javascript 编码风格指南](https://github.com/ryanmcdermott/clean-code-javascript)
 - [spec](https://github.com/ecomfe/spec/) -  百度前端团队代码规范
-
-[⬆️ 返回首页](#目录)
-
-## 项目集成及自动化
-
-- [travis-ci 持续集成](https://travis-ci.org/)
-- [circleci 持续集成](https://circleci.com)
-- [gitlab-ci 持续集成](https://about.gitlab.com/features/gitlab-ci-cd/)
-- [snyk.io 前端依赖检测](https://snyk.io)
-- [codecov.io 测试覆盖率报告](https://codecov.io)
 
 [⬆️ 返回首页](#目录)
 
@@ -1259,14 +1248,16 @@
 
 ### 持续集成
 
-- [CircleCI](https://circleci.com) - 一个持续集成的平台
-- [GitlabCi](https://about.gitlab.com/gitlab-ci/) - GITLAB 持续集成
+- [CircleCI](https://circleci.com)
+- [GitlabCi](https://about.gitlab.com/gitlab-ci/)
 - [Jenkins](https://jenkins.io/index.html) - 一个支持 [PHP](http://jenkins-php.org/index.html) 的连续集成平台
-- [JoliCi](https://github.com/jolicode/JoliCi) - 一个用 PHP 编写并由 DOCKER 供电的持续集成客户端
-- [PHPCI](https://www.phptesting.org/) - 一个开源的PHP连续集成平台
-- [SemaphoreCI](https://semaphoreci.com/) - 开源和私人项目的持续集成平台
+- [JoliCi](https://github.com/jolicode/JoliCi) - 一个用 PHP 编写并由 DOCKER 供电的集成客户端
+- [PHPCI](https://www.phptesting.org/) - 一个开源的 PHP 连续集成平台
+- [SemaphoreCI](https://semaphoreci.com/) - 开源和私人项目的集成平台
 - [Shippable](https://www.shippable.com/) - 一个基于 DOCKER 的开源和私有项目的连续集成平台
 - [Travis CI](https://travis-ci.org/) - 持续整合平台
 - [Wercker](http://www.wercker.com/) - 持续整合平台
+- [snyk.io 前端依赖检测](https://snyk.io)
+- [codecov.io 测试覆盖率报告](https://codecov.io)
 
 [⬆️ 返回首页](#目录)
