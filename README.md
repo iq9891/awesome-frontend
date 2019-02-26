@@ -74,6 +74,7 @@
   - [下载组件](#下载组件)
   - [Ajax模块](#ajax模块)
   - [字体资源](#字体资源)
+  - [表单方面](#表单方面)
 - [音频/视频](#音频视频)
 - [APP 框架](#app-框架)
 - [CSS 框架](#css-框架)
@@ -814,6 +815,12 @@
 ### 字体资源
 
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+
+[⬆️ 返回首页](#目录)
+
+### 表单方面
+
+- [cleave.js](https://github.com/nosir/cleave.js)
 
 [⬆️ 返回首页](#目录)
 
