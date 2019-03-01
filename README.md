@@ -500,6 +500,7 @@
 - [wx-mina-html-view](https://github.com/Tencent/wepy) 小程序渲染 html ，支持富文本渲染
 - [wxapp-qrcode](https://github.com/demi520/wxapp-qrcode) 小程序二维码生成器
 - [westore](https://github.com/Tencent/westore) 微信小程序解决方案
+- [ColorUI](https://github.com/weilanwl/ColorUI) 鲜亮的高饱和色彩，专注视觉的小程序组件库
 
 [⬆️ 返回首页](#目录)
 
