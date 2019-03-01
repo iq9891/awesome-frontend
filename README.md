@@ -501,6 +501,7 @@
 - [wxapp-qrcode](https://github.com/demi520/wxapp-qrcode) 小程序二维码生成器
 - [westore](https://github.com/Tencent/westore) 微信小程序解决方案
 - [ColorUI](https://github.com/weilanwl/ColorUI) 鲜亮的高饱和色彩，专注视觉的小程序组件库
+- [Gitter](https://github.com/huangjianke/Gitter) 采用 Taro 框架 + Taro UI 进行开发的 demo
 
 [⬆️ 返回首页](#目录)
 
