@@ -1263,6 +1263,7 @@
 
 - [CircleCI](https://circleci.com)
 - [GitlabCi](https://about.gitlab.com/gitlab-ci/)
+- [appveyor](https://www.appveyor.com/) 适用于Windows和Linux的持续集成解决方案
 - [Jenkins](https://jenkins.io/index.html) - 一个支持 [PHP](http://jenkins-php.org/index.html) 的连续集成平台
 - [JoliCi](https://github.com/jolicode/JoliCi) - 一个用 PHP 编写并由 DOCKER 供电的集成客户端
 - [PHPCI](https://www.phptesting.org/) - 一个开源的 PHP 连续集成平台
