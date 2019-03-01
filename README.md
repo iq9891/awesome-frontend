@@ -110,6 +110,7 @@
 - [vue-icon](https://github.com/fe6/vue-icon) 简单的 icon 组件
 - [vue-baidu-map](https://github.com/Dafrok/vue-baidu-map) 百度地图的 vue 版
 - [tiptap](https://github.com/heyscrumpy/tiptap) A rich-text editor for Vue.js
+- [Motrix](https://github.com/agalwood/Motrix) 功能齐全的下载管理器
 
 [⬆️ 返回首页](#目录)
 
