@@ -490,6 +490,7 @@
 - [流程图，思维导图、UML、网络拓扑图](https://www.processon.com/)
 - [jsdiff](http://incaseofstairs.com/jsdiff) 在线对比工具
 - [transfonter](https://transfonter.org/) - 字体文件转换成 base64 格式
+- [send](https://github.com/mozilla/send) 来自 Firefox 制造商的简单私密文件共享
 
 [⬆️ 返回首页](#目录)
 
