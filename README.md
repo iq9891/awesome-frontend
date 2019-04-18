@@ -348,6 +348,10 @@
 
 [⬆️ 返回首页](#目录)
 
+### 其他
+
+- [Node.js-Troubleshooting-Guide](https://github.com/aliyun-node/Node.js-Troubleshooting-Guide) Node.js 应用线上/线下故障、压测问题和性能调优指南手册（更新中...）
+
 ## 可视化插件
 
 - [echarts](https://github.com/ecomfe/echarts)
