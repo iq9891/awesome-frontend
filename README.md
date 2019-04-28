@@ -453,6 +453,7 @@
 - [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html)
 - [GitHub帮助文档](https://github.com/waylau/github-help)
 - [GitHub漫游指南](https://github.com/phodal/github-roam)
+- [git-tips](https://github.com/521xueweihan/git-tips) Git的奇技淫巧
 
 [⬆️ 返回首页](#目录)
 
