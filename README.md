@@ -536,6 +536,7 @@
 - [neofetch](https://github.com/dylanaraps/neofetch) 个性化显示Linux系统信息
 - [hiper](https://github.com/pod4g/hiper) 一个查看网页加载性能的命令行程序
 - [lazygit](https://github.com/jesseduffield/lazygit) simple terminal UI for git commands
+- [command-line](https://github.com/jlevy/the-art-of-command-line) 在一个页面中掌握命令行
 
 [⬆️ 返回首页](#目录)
 
