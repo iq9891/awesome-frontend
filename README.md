@@ -472,6 +472,7 @@
 ### 转换
 - [在线时间戳(Unix timestamp)转换工具](http://www.atool.org/timestamp.php)
 - [图片转换Base64](http://imgbase64.duoshitong.com/)
+- [文件转换工具](https://cloudconvert.com/)
 
 [⬆️ 返回首页](#目录)
 
