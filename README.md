@@ -75,6 +75,7 @@
   - [Ajax模块](#ajax模块)
   - [字体资源](#字体资源)
   - [表单方面](#表单方面)
+  - [引导组件](#引导组件)
 - [音频/视频](#音频视频)
 - [APP 框架](#app-框架)
 - [CSS 框架](#css-框架)
@@ -146,7 +147,6 @@
 - [tui.calendar](https://github.com/nhnent/tui.calendar) 日历库
 - [em-cookie](https://github.com/em-fe/em-cookie) cookie 的处理
 - [EM-NORMALIZE](https://github.com/em-fe/EM-NORMALIZE) 样式重置
-- [intro.js](https://github.com/usablica/intro.js) 为您的网站和项目提供新功能介绍和逐步用户指南的更好方式。可用于新手指引，功能介绍，更新指引等。
 - [modernizr](https://github.com/modernizr/modernizr) Modernizr是一个JavaScript库，可以在用户的​​浏览器中检测HTML5和CSS3功能。
 - [gpu.js](https://github.com/gpujs/gpu.js) GPU 加速
 
@@ -836,6 +836,13 @@
 ### 表单方面
 
 - [cleave.js](https://github.com/nosir/cleave.js)
+
+[⬆️ 返回首页](#目录)
+
+### 引导组件
+
+- [shepherd](https://github.com/shipshapecode/shepherd) 引导您的用户浏览您的应用。
+- [intro.js](https://github.com/usablica/intro.js) 为您的网站和项目提供新功能介绍和逐步用户指南的更好方式。可用于新手指引，功能介绍，更新指引等。
 
 [⬆️ 返回首页](#目录)
 
