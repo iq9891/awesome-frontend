@@ -111,6 +111,7 @@
 - [vue-baidu-map](https://github.com/Dafrok/vue-baidu-map) 百度地图的 vue 版
 - [tiptap](https://github.com/heyscrumpy/tiptap) A rich-text editor for Vue.js
 - [Motrix](https://github.com/agalwood/Motrix) 功能齐全的下载管理器
+- [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) 基于Sortable.js的Vue拖放组件
 
 [⬆️ 返回首页](#目录)
 
@@ -763,6 +764,7 @@
 - [Draggabilly - 专注于拖拽功能的 JS 库](https://github.com/desandro/draggabilly)
 - [dragula - 一个让拖放操作变简单的 JS 库](https://github.com/bevacqua/dragula)
 - [GridList - 可拖拉的响应式列表库](https://github.com/uberVU/grid)
+- [Sortable](https://github.com/SortableJS/Sortable)
 
 [⬆️ 返回首页](#目录)
 
