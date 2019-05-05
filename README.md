@@ -281,6 +281,7 @@
 - [element-react](https://github.com/eleme/element-react)
 - [Material UI](https://github.com/callemall/material-ui)
 - [Office UI Fabric - 微软 Office 前端团队的框架](https://github.com/OfficeDev/Office-UI-Fabric)
+- [rekit](https://github.com/rekit/rekit) 用于使用React，Redux和React-router构建可伸缩Web应用程序的IDE和工具包
 
 [⬆️ 返回首页](#目录)
 
