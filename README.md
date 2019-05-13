@@ -349,6 +349,7 @@
 - [sharp](https://github.com/lovell/sharp) 高性能Node.js图像处理，是调整JPEG，PNG，WebP和TIFF图像大小的最快模块。使用libvips库。
 - [faast.js](https://github.com/faastjs/faast.js)  批量计算，让并发请求更高效
 - [sofa-rpc-node](https://github.com/alipay/sofa-rpc-node) 阿里系 NodeJs 版 RPC
+- [wildduck](https://github.com/nodemailer/wildduck) 邮箱服务器
 
 [⬆️ 返回首页](#目录)
 
