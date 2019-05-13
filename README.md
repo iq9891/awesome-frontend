@@ -168,6 +168,7 @@
 - [nanoid](https://github.com/ai/nanoid) 一款非常小巧的唯一 ID 生成工具
 - [hotkeys](https://github.com/jaywcjlove/hotkeys) 键盘按键的封装，如 ctrl+r
 - [JsBarcode](https://github.com/lindell/JsBarcode) js 生成条形码(条码)
+- [comlink](https://github.com/GoogleChromeLabs/comlink) 让 WebWorker 更好用
 
 [⬆️ 返回首页](#目录)
 
