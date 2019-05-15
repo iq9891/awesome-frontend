@@ -99,6 +99,7 @@
   - [面试教科书](#面试教科书)
   - [Vue.js](#vuejs)
 - [持续集成](#持续集成)
+- [Host相关](#Host相关)
 ----
 
 ## Vue.js 专栏
@@ -1298,5 +1299,12 @@
 - [Wercker](http://www.wercker.com/) - 持续整合平台
 - [snyk.io 前端依赖检测](https://snyk.io)
 - [codecov.io 测试覆盖率报告](https://codecov.io)
+
+[⬆️ 返回首页](#目录)
+
+## Host相关
+
+- [配合定期更新被墙的 IP](https://github.com/googlehosts/hosts)
+- [Hosts 文件管理工具](https://oldj.github.io/SwitchHosts/)
 
 [⬆️ 返回首页](#目录)
