@@ -620,6 +620,7 @@
 - [jquery_lazyload](https://github.com/tuupola/jquery_lazyload)
 - [BttrLazyLoading](https://github.com/shprink/bttrlazyloading/)
 - [lazyload.js](https://github.com/vvo/lazyload)
+- [lazyload](https://github.com/tuupola/lazyload)
 - [layzr.js - 一个小巧快速的图片懒加载库](https://github.com/callmecavs/layzr.js)
 - [waitForImages - 图片加载监听库](https://github.com/alexanderdickson/waitForImages)
 - [PxLoader - JS预加载库:实现图片、声音等各种文件的预加载功能](https://github.com/thinkpixellab/PxLoader)
