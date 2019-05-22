@@ -648,6 +648,7 @@
 - [Turntable.js - 轻易实现图像的3D旋转](https://github.com/polarnotion/turntable)
 - [ResponsifyJS - 让图像完全响应式而不会牺牲图像的主要部分](https://github.com/wentin/ResponsifyJS)
 - [react-slick - React 实现的轮播图插件](https://github.com/akiran/react-slick)
+- [exif-js](https://github.com/exif-js/exif-js) 解决手机端上传拍照图片的翻转问题
 
 [⬆️ 返回首页](#目录)
 
@@ -873,7 +874,7 @@
 - [Buzz - A Javascript HTML5 Audio library](https://github.com/jaysalvat/buzz)
 - [MediaElement.js](https://github.com/mediaelement/mediaelement) 播放器 jquery 插件
 - [html-canvas-video-player](https://github.com/Stanko/html-canvas-video-player) 支持 iOS 和 Android 的播放器
--[iphone-inline-video](https://github.com/bfred-it/iphone-inline-video) 让视频在iPhone上内联播放（防止自动全屏显示）
+- [iphone-inline-video](https://github.com/bfred-it/iphone-inline-video) 让视频在iPhone上内联播放（防止自动全屏显示）
 
 [⬆️ 返回首页](#目录)
 
