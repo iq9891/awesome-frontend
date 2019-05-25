@@ -649,6 +649,7 @@
 - [ResponsifyJS - 让图像完全响应式而不会牺牲图像的主要部分](https://github.com/wentin/ResponsifyJS)
 - [react-slick - React 实现的轮播图插件](https://github.com/akiran/react-slick)
 - [exif-js](https://github.com/exif-js/exif-js) 解决手机端上传拍照图片的翻转问题
+- [js-cloudimage-360-view](https://github.com/scaleflex/js-cloudimage-360-view) 360 全景图片
 
 [⬆️ 返回首页](#目录)
 
