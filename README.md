@@ -1023,6 +1023,7 @@
 - [Stage.js](https://github.com/piqnt/stage.js/)
 - [phaser - 一个快速、免费、开源的 HTML5 游戏框架](https://github.com/photonstorm/phaser/)
 - [lufylegend.js](https://github.com/lufylegend/lufylegend.js)
+- [pixi.js](https://github.com/pixijs/pixi.js)
 
 [⬆️ 返回首页](#目录)
 
