@@ -170,6 +170,7 @@
 - [hotkeys](https://github.com/jaywcjlove/hotkeys) 键盘按键的封装，如 ctrl+r
 - [JsBarcode](https://github.com/lindell/JsBarcode) js 生成条形码(条码)
 - [comlink](https://github.com/GoogleChromeLabs/comlink) 让 WebWorker 更好用
+- [await-timeout](https://github.com/vitalets/await-timeout) Timeout 依托 Promise 的封装
 
 [⬆️ 返回首页](#目录)
 
