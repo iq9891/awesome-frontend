@@ -15,6 +15,7 @@
   - [物理引擎](#物理引擎)
   - [工具函数类](#工具函数类)
   - [调试工具](#调试工具)
+  - [其他](#其他)
 - [学习资源](#学习资源)
 - [数据模拟](#数据模拟)
 - [动画库](#动画库)
@@ -182,6 +183,9 @@
 - [signale](https://github.com/klauscfhq/signale) Hackable console logger
 
 [⬆️ 返回首页](#目录)
+
+### 其他
+- [copy-to-clipboard](https://github.com/sudodoki/copy-to-clipboard) 复制的插件
 
 ## 学习资源
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) mac 电脑上面的资源
