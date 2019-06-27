@@ -365,6 +365,7 @@
 ### 其他
 
 - [Node.js-Troubleshooting-Guide](https://github.com/aliyun-node/Node.js-Troubleshooting-Guide) Node.js 应用线上/线下故障、压测问题和性能调优指南手册（更新中...）
+- [NodeBB](https://github.com/NodeBB/NodeBB) Node.js基于为现代网络构建的论坛软件
 
 ## 可视化插件
 
