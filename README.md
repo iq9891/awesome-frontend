@@ -117,6 +117,7 @@
 - [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) 基于Sortable.js的Vue拖放组件
 - [vue-codemirror](https://github.com/surmon-china/vue-codemirror) codemirror 的 vue 封装
 - [vue-apollo](https://github.com/Akryum/vue-apollo) 连接 Vue 和 GraphQL/Apollo 的一座桥梁
+- [eagle.js](https://github.com/zulko/eagle.js) 一个使用 Vue 构建的功能强大、灵活且独特的幻灯片系统
 
 [⬆️ 返回首页](#目录)
 
