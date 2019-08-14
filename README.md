@@ -116,6 +116,7 @@
 - [Motrix](https://github.com/agalwood/Motrix) 功能齐全的下载管理器
 - [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) 基于Sortable.js的Vue拖放组件
 - [vue-codemirror](https://github.com/surmon-china/vue-codemirror) codemirror 的 vue 封装
+- [vue-apollo](https://github.com/Akryum/vue-apollo) 连接 Vue 和 GraphQL/Apollo 的一座桥梁
 
 [⬆️ 返回首页](#目录)
 
