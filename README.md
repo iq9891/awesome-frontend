@@ -361,6 +361,8 @@
 - [sofa-rpc-node](https://github.com/alipay/sofa-rpc-node) 阿里系 NodeJs 版 RPC
 - [wildduck](https://github.com/nodemailer/wildduck) 邮箱服务器
 - [tink](https://github.com/npm/tink) tink是JavaScript的实验包管理器
+- [dotenv](https://github.com/motdotla/dotenv) 在 nodejs 项目中通过 .env 文件加载环境变量
+- [chokidar](https://github.com/paulmillr/chokidar) 监听文件的变化
 
 [⬆️ 返回首页](#目录)
 
