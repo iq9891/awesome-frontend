@@ -119,6 +119,7 @@
 - [vue-apollo](https://github.com/Akryum/vue-apollo) 连接 Vue 和 GraphQL/Apollo 的一座桥梁
 - [eagle.js](https://github.com/zulko/eagle.js) 一个使用 Vue 构建的功能强大、灵活且独特的幻灯片系统
 - [vue-color](https://github.com/xiaokaike/vue-color) 颜色选择器
+- [seat-select](https://github.com/zenghao0219/seat-select) 选座
 
 [⬆️ 返回首页](#目录)
 
