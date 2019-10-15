@@ -121,6 +121,7 @@
 - [vue-color](https://github.com/xiaokaike/vue-color) 颜色选择器
 - [seat-select](https://github.com/zenghao0219/seat-select) 选座 C 端
 - [seat-select-controller](https://github.com/zenghao0219/seat-select-controller) 选座 B 端后台
+- [vue-cli3-config](https://github.com/staven630/vue-cli3-config) vue-cli3配置vue.config.js持续更新
 
 [⬆️ 返回首页](#目录)
 
