@@ -180,6 +180,7 @@
 - [comlink](https://github.com/GoogleChromeLabs/comlink) 让 WebWorker 更好用
 - [await-timeout](https://github.com/vitalets/await-timeout) Timeout 依托 Promise 的封装
 - [dsa.js](https://github.com/amejiarosario/dsa.js) 数据结构及方法
+- [fecha](https://github.com/taylorhakes/fecha) 轻量级Javascript日期格式和解析
 
 [⬆️ 返回首页](#目录)
 
