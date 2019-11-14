@@ -377,12 +377,37 @@
 - [Node.js-Troubleshooting-Guide](https://github.com/aliyun-node/Node.js-Troubleshooting-Guide) Node.js 应用线上/线下故障、压测问题和性能调优指南手册（更新中...）
 - [NodeBB](https://github.com/NodeBB/NodeBB) Node.js基于为现代网络构建的论坛软件
 
-## 可视化插件
+## 数据可视化库
 
-- [echarts](https://github.com/ecomfe/echarts)
-- [g2](https://github.com/antvis/g2)
-- [f2 移动端可视化图表](https://github.com/antvis/f2)
-- [d3](https://github.com/d3/d3)
+- [echarts](https://github.com/apache/incubator-echarts) 它是用纯 JavaScript 编写的，基于 zrender 画布。它支持以画布、SVG(4.0+) 和 VML 的形式绘制图表。除了 PC 和移动浏览器外，ECharts 还可以与 node 上的 node-canvas 一起使用，以便进行高效的服务器端渲染（SSR）。
+- [Highcharts JS](https://github.com/highcharts/highcharts) 是一个广受欢迎的基于 SVG 的 JavaScript 图表库，针对旧的浏览器可降级到 VML 和画布。世界上最大的 100 家公司中，有 72 家公司（Facebook、Twitter 等）使用了这个库，这使得它成为世界上最流行的 JS 图表 API。
+- [G2](https://github.com/antvis/g2)
+- [F2 移动端可视化图表](https://github.com/antvis/f2)
+- [D3](https://github.com/d3/d3) 可能是最流行和使用最广泛的 JavaScript 数据可视化库。D3 用于基于数据的文档操作，并使用 HTML、SVG 和 CSS 让数据活起来。它基于 Web 标准，结合现代浏览器，不需要与专有框架耦合，将可视化组件和数据驱动的方法结合到 DOM 操作上。它允许你将任意数据绑定到文档对象模型（DOM），然后在文档上应用数据转换。
+- [Chart.js](https://github.com/chartjs/Chart.js) 一个非常受欢迎的开源 HTML5 图表库，它使用画布元素构建响应式 Web 应用。ChartJS 提供了混合图表类型，新的图表轴类型和漂亮的动画。它的设计简单而优雅，有 8 种基本的图表类型，你可以将该库与 moment.js 结合在一起使用，用于渲染时间轴。
+- [three.js](https://github.com/mrdoob/three.js/) ThreeJS 用 WebGL 创建 3D 动画。该项目的灵活性和抽象性意味着它也可用于 2 维或 3 维的数据可视化。
+- [Metric-Graphics](https://github.com/metricsgraphics/metrics-graphics) 用于可视化和布局时间序列数据。它相对较小（80kb），提供了小而优雅的线条图、散点图、直方图、柱状图和数据表，以及地格图（rug plot）和基本线性回归等特性。
+- [Recharts](https://github.com/recharts/recharts) 是一个使用 React 和 D3 构建的图表库，可以作为声明性的 React 组件使用。该库提供原生 SVG 支持，轻量级依赖树（D3 子模块）高度可定制。官网文档中可以找到很多例子。
+- [Raphael](https://github.com/DmitryBaranovskiy/raphael) 是一个 JavaScript 矢量库，可在 Web 中绘制矢量图形。该库使用 SVG W3C 和 VML 作为创建图形的基础，因此每个图形对象也是 DOM 对象，你可以附加 JavaScript 事件处理程序。Raphael 目前支持 Firefox 3.0+、Safari 3.0+、Chrome 5.0+、Opera 9.5+ 和 Internet Explorer 6.0+。
+- [C3](https://github.com/c3js/c3) 是一个基于 D3 的可重用 Web 应用图表库。该库为每个元素提供了相应的类，这样你就可以通过这些类来自定义样式，并通过 D3 直接扩展结构。它还提供了多种 API 和回调来访问图表状态。借助它们，你可以更新图表，即使是已经渲染好的图标。
+- [React-vis](https://github.com/uber/react-vis) 是 Uber 开发的一系列数据可视化组件，包括线 / 面 / 柱状图、热图、散热图、等高线图、六角热图等等。使用该库不需要事先掌握 D3 或任何其他 data-vis 库的知识，并提供了低级模块化的构建块组件，如 x/y 轴。
+- [React virtualized](https://github.com/bvaughn/react-virtualized) 是一组 React 组件，有效地呈现大型列表和表格数据。ES6、CommonJS 和 UMD 版本可以在每个分发版中使用，该项目支持 Webpack 4 工作流。请注意，为了避免版本冲突，必须将 react，react-dom 指定为 peer 依赖。
+- [Victory](https://github.com/FormidableLabs/victory) 在 Web 和 React Native 应用程序中使用相同的 API，以便于跨平台绘制图表。一种优雅而灵活的方式来利用 React 组件来支持实用的数据可视化。
+- [CartoDB](https://github.com/CartoDB/cartodb) 是一个位置智能和数据可视化工具，用于发现位置数据中的见解。你可以通过 Web 表单上传地理空间数据（Shapefiles、GeoJSON 等），并在数据集或地图上将其可视化，使用 SQL 进行搜索，并使用 CartoCSS 来应用地图样式。
+- [Raw](https://github.com/densitydesign/raw) 是电子表格和数据可视化之间的连接，基于 d3.js 库创建基于向量的自定义可视化。它可以处理表格数据（电子表格和 CSV）和从其他应用程序复制和粘贴的文本。因为是 SVG 格式，所以可以使用矢量图形编辑器编辑，或直接嵌入到网页中。
+- [Metabase](https://github.com/metabase/metabase) 是一种相当快速和简单的方法，可以在不了解 SQL 的情况下创建数据仪表盘（分析师和数据专业人士可使用 SQL 模式）。你可以创建片段和度量指标，发送数据到 Slack（通过 MetaBot 在 Slack 中查看数据）等等。它可能是一个很好的工具，可用它在团队内部可视化数据，尽管可能需要做一些维护工作。
+- [tauCharts](https://github.com/TargetProcess/tauCharts) 一个基于 D3 的图表库。该库提供了一个声明接口，用于将数据字段快速映射到可视化属性，它的架构允许你使用插件构建切面和扩展图表行为。
+- [chartist-js](https://github.com/gionkunz/chartist-js) 简单的响应式图表。
+- [semiotic](https://github.com/emeeks/semiotic) 结合了 React 和 D3 的数据可视化框架
+- [nvd3](https://github.com/novus/nvd3) 一个用 D3.js 编写的可重用的图表库。
+- [viser](https://github.com/viserjs/viser) 一个适合数据工程师的工具箱。
+- [tui.chart](https://github.com/nhnent/tui.chart) 漂亮的数据可视化图表。
+- [datamaps](https://github.com/markmarkoh/datamaps) 使用 D3.js 在单个 JavaScript 件中自定义 SVG 地图可视化。
+- [sheetsee.js](https://github.com/jlord/sheetsee.js) 用于对谷歌表格的数据进行可视化。
+- [BizCharts](https://github.com/alibaba/BizCharts) 基于 G2 和 React 的数据可视化库。
+- [sigma.js](https://github.com/jacomyal/sigma.js) 一个专门用于图形绘制的 JavaScript 库。
+- [incubator-echarts](https://github.com/apache/incubator-echarts) 一个强大的、交互式的图表和可视化的浏览器库。
+- [vis](https://github.com/almende/vis) 一个动态的基于浏览器的可视化库。
 
 [⬆️ 返回首页](#目录)
 
