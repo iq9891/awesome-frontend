@@ -122,6 +122,17 @@
 - [seat-select](https://github.com/zenghao0219/seat-select) 选座 C 端
 - [seat-select-controller](https://github.com/zenghao0219/seat-select-controller) 选座 B 端后台
 - [vue-cli3-config](https://github.com/staven630/vue-cli3-config) vue-cli3配置vue.config.js持续更新
+- [sing-app-vue-dashboard](https://github.com/flatlogic/sing-app-vue-dashboard) Sing App Vue 仪表板
+- [vue-storefront](https://github.com/DivanteLtd/vue-storefront) 这是一个 PWA 应用，可以与任何后端（或几乎任何后端）连接。
+- [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) 快速滚动条
+- [v-calendar](https://github.com/nathanreyes/v-calendar) 用于构建日历的无依赖插件
+- [vue-design-system](https://github.com/viljamis/vue-design-system) 一组 UI 工具
+- [light-blue-vue-admin](https://github.com/flatlogic/light-blue-vue-admin) 用于管理信息中心的 Vue.js 模板
+- [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) Vue.js 的网格布局
+- [vue-content-loader](https://github.com/egoist/vue-content-loader) 创建占位符加载
+- [vue-js-modal](https://github.com/euvl/vue-js-modal) 高度可定制的 Modal
+- [vue2-animate](https://github.com/asika32764/vue2-animate) 集成 Animate.css 的动画库
+- [vuetensils](https://github.com/stegosource/vuetensils) 一些常用组件
 
 [⬆️ 返回首页](#目录)
 
@@ -547,6 +558,7 @@
 - [jsdiff](http://incaseofstairs.com/jsdiff) 在线对比工具
 - [transfonter](https://transfonter.org/) - 字体文件转换成 base64 格式
 - [send](https://github.com/mozilla/send) 来自 Firefox 制造商的简单私密文件共享
+- [faviator](https://github.com/faviator/faviator) 一个生成图标的库
 
 [⬆️ 返回首页](#目录)
 
