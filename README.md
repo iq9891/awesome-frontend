@@ -206,6 +206,7 @@
 
 ### 其他
 - [copy-to-clipboard](https://github.com/sudodoki/copy-to-clipboard) 复制的插件
+- [tesseract.js](https://github.com/naptha/tesseract.js) 图片的文字识别工具
 
 ## 学习资源
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac) mac 电脑上面的资源
