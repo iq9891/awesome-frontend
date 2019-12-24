@@ -133,6 +133,7 @@
 - [vue-js-modal](https://github.com/euvl/vue-js-modal) 高度可定制的 Modal
 - [vue2-animate](https://github.com/asika32764/vue2-animate) 集成 Animate.css 的动画库
 - [vuetensils](https://github.com/stegosource/vuetensils) 一些常用组件
+- [easyjs](https://github.com/easy-team/easyjs) 拥有 Egg Vue SSR 服务端渲染
 
 [⬆️ 返回首页](#目录)
 
