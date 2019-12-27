@@ -156,6 +156,7 @@
 
 - [react-in-patterns](https://github.com/krasimir/react-in-patterns) 包含了在使用react时好用的设计模式和方法。对提高开发效率很有效。是一个不错的文档
 - [vue-design](https://github.com/HcySunYang/vue-design) vue 2.x 逐行级别的源码分析
+- [Learn-Vue-Source-Code](https://github.com/NLRX-WJC/Learn-Vue-Source-Code) 逐行剖析Vue.js源码
 
 [⬆️ 返回首页](#目录)
 
