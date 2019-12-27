@@ -134,6 +134,7 @@
 - [vue2-animate](https://github.com/asika32764/vue2-animate) 集成 Animate.css 的动画库
 - [vuetensils](https://github.com/stegosource/vuetensils) 一些常用组件
 - [easyjs](https://github.com/easy-team/easyjs) 拥有 Egg Vue SSR 服务端渲染
+- [vue-video-player](https://github.com/surmon-china/vue-video-player) 基于 Vue 的音频插件
 
 [⬆️ 返回首页](#目录)
 
