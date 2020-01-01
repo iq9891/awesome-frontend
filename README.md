@@ -238,6 +238,7 @@
 * [**ant-design**][7-1] - 蚂蚁金服的 React UI 库
 * [**antvis**][7-2] - 数据可视化集合
 * [**ant-motion**][7-3] - 动画说明和Ant设计组件
+* [**@umijs/hooks**][7-4] - React Hooks 库
 
 ## 工具类
 
@@ -756,6 +757,7 @@
 [7-1]:	https://github.com/ant-design/ant-design
 [7-2]:	https://github.com/antvis
 [7-3]:	https://github.com/ant-design/ant-motion
+[7-4]:	https://github.com/umijs/hooks
 
 
 [8-1]:	https://github.com/ReactTraining/history
