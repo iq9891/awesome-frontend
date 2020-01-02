@@ -39,6 +39,7 @@
 - [动画库](#动画库)
 - [数据模拟](#数据模拟)
 - [调试工具](#调试工具)
+- [源码分析](#源码分析)
 - [其他](#其他)
 
 ----
@@ -585,6 +586,11 @@
 * [**vue-pretty-logger**][25-3] - 一个还在持续更新的本地 log 输出插件
 * [**signale**][25-4] - Hackable console logger
 
+## 源码分析
+
+* [**vue-analysis**][26-1] - vue 2.x 源码分析
+* [**vue-design**][26-2] - vue 2.x 源码分析
+
 
 ## 其他
 
@@ -1054,3 +1060,6 @@
 [25-2]:	https://github.com/Tencent/vConsole
 [25-3]:	https://github.com/TaroXin/vue-pretty-logger
 [25-4]:	https://github.com/klauscfhq/signale
+
+[26-1]:	https://github.com/ustbhuangyi/vue-analysis
+[26-2]:	https://github.com/HcySunYang/vue-design
