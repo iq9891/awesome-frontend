@@ -440,6 +440,7 @@
 * [**plnkr**][19-1-2] - 在线编程，生成在线预览
 * [**codepen**][19-1-3] - 在线编程，生成在线预览
 * [**jsbin**][19-1-4] - 在线编程，生成在线预览
+* [**astexplorer**][19-1-5] - 在线编程，可选类型，如 ast
 
 [⬆️ 返回首页](#目录)
 
@@ -944,6 +945,7 @@
 [19-1-2]:	http://plnkr.co
 [19-1-3]:	https://codepen.io/
 [19-1-4]:	http://jsbin.com
+[19-1-5]:	https://astexplorer.net/
 
 [19-2-1]:	http://www.atool.org/timestamp.php
 [19-2-2]:	http://imgbase64.duoshitong.com/
