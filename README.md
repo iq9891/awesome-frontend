@@ -176,6 +176,7 @@
 * [**react-dnd**][5-9] - 拖拽实现
 * [**react-helmet**][5-10] - 修改 html 的 header 内容
 * [**react-jsonschema-form**][5-11] - A React component for building Web forms from JSON Schema
+* [**react-dates**][5-12] - 适用于网络的易于国际化，移动友好的日期选择器库
 
 [⬆️ 返回首页](#目录)
 
@@ -715,6 +716,7 @@
 [5-9]:	https://github.com/react-dnd/react-dnd
 [5-10]:	https://github.com/nfl/react-helmet
 [5-11]:	https://github.com/mozilla-services/react-jsonschema-form
+[5-12]:	https://github.com/airbnb/react-dates
 
 [6-1-1]:	https://github.com/quasarframework/quasar
 [6-1-2]:	https://github.com/vuematerial/vue-material
