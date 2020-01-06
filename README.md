@@ -340,6 +340,7 @@
 * [**just**][12-23] - 微软出的任务管理器
 * [**tern**][12-24] - 代码分析器，为不少编辑器服务
 * [**analyze-css**][12-25] - CSS选择器的复杂性和性能分析器
+* [**jscodeshift**][12-26] - 源码的转换，神似通过 AST ，可用于开发 VSCode 插件，或者 Lint
 
 [⬆️ 返回首页](#目录)
 
@@ -853,6 +854,7 @@
 [12-23]:	https://github.com/Microsoft/just
 [12-24]:	https://github.com/ternjs/tern
 [12-25]:	https://github.com/macbre/analyze-css
+[12-26]:	https://github.com/facebook/jscodeshift
 
 [13-1]:	https://code.visualstudio.com/
 [13-2]:	https://www.jetbrains.com/idea/
