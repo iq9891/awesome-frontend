@@ -604,6 +604,7 @@
 * [**DeskGap**][16-8] - 类 electron ，由于不包含浏览器的部分，所以产物更小
 * [**fx**][16-9] - 交互式 JSON 查看
 * [**fontawesome**][16-10] - 字体资源
+* [**xray**][16-11] - 安全评估工具
 
 [⬆️ 返回首页](#目录)
 
@@ -906,6 +907,7 @@
 [16-8]:	https://github.com/patr0nus/DeskGap
 [16-9]:	https://github.com/antonmedv/fx
 [16-10]:	https://fontawesome.com
+[16-11]:	https://github.com/chaitin/xray
 
 [17-1]:	https://circleci.com
 [17-2]:	https://about.gitlab.com/gitlab-ci/
