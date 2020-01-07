@@ -140,6 +140,7 @@
 * [**westore**][4-4-3] - 微信小程序解决方案 - 1KB javascript 覆盖状态管理、跨页通讯、插件开发和云数据库开发
 * [**ColorUI**][4-4-4] - 鲜亮的高饱和色彩，专注视觉的小程序组件库
 * [**Gitter**][4-4-5] - 采用 Taro 框架 + Taro UI 进行开发的 demo ， 可能是目前颜值最高的 GitHub 微信小程序客户端
+* [**Taro**][4-4-6] - 多端统一开发框架，支持用 React 的开发方式编写一次代码
 
 [⬆️ 返回首页](#目录)
 
@@ -153,7 +154,6 @@
 * [**umi**][4-5-6] - 蚂蚁金服的前端框架
 * [**rekit**][4-5-7] - IDE and toolkit for building scalable web applications with React, Redux and React-router
 * [**choo**][4-5-8] - dva 最初的 API 是参考这个实现的，已经不怎么发展了，再关注一段时间
-* [**taro**][4-5-9] - 用 React 写小程序，适配微信和支付宝等
 * [**after.js**][4-5-10]
 * [**mint**][4-5-11] - 提供了语言层方案的框架
 * [**quasar**][4-5-12] - 基于 vue，一套代码多处适用
@@ -161,7 +161,6 @@
 * [**Foundation**][4-5-14]
 * [**Polymer**][4-5-15] - Google发布的Web组件构建框架
 * [**cyclejs**][4-5-16]
-* [**taro**][4-5-17] - 多端统一开发框架，支持用 React 的开发方式编写一次代码
 
 ## React 相关库
 
@@ -686,6 +685,7 @@
 [4-4-3]:	https://github.com/Tencent/westore
 [4-4-4]:	https://github.com/weilanwl/ColorUI
 [4-4-5]:	https://github.com/huangjianke/Gitter
+[4-4-6]:	https://github.com/NervJS/taro
 
 [4-5-1]:	https://github.com/facebook/react
 [4-5-2]:	https://github.com/vuejs/vue
@@ -695,7 +695,6 @@
 [4-5-6]:	https://github.com/umijs/umi
 [4-5-7]:	https://github.com/rekit/rekit
 [4-5-8]:	https://github.com/choojs/choo
-[4-5-9]:	https://github.com/NervJS/taro
 [4-5-10]:	https://github.com/jaredpalmer/after.js
 [4-5-11]:	https://github.com/mint-lang/mint
 [4-5-12]:	https://github.com/quasarframework/quasar
@@ -703,7 +702,6 @@
 [4-5-14]:	https://github.com/zurb/foundation
 [4-5-15]:	https://www.polymer-project.org
 [4-5-16]:	https://github.com/cyclejs/cyclejs/
-[4-5-17]:	https://github.com/NervJS/taro
 
 [5-1]:	https://github.com/developit/preact
 [5-2]:	https://github.com/infernojs/inferno
