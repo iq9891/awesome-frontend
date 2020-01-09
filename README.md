@@ -204,6 +204,7 @@
 * [**vuesax**][6-1-18]
 * [**vuecidity**][6-1-19]
 * [**water**][6-1-20]
+* [**vant**][6-1-21]
 
 ### 其他
 
@@ -739,6 +740,7 @@
 [6-1-18]:	https://github.com/lusaxweb/vuesax
 [6-1-19]:	https://bitbucket.org/acidmartin/vuecidity
 [6-1-20]:	https://github.com/fe6/water
+[6-1-21]:	https://github.com/youzan/vant
 
 [6-2-1]:	https://github.com/vuejs/vue-router
 [6-2-2]:	https://github.com/xyxiao001/vue-cropper
