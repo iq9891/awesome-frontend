@@ -575,6 +575,7 @@
 * [**ImageCaptionHoverAnimation**][23-31]
 * [**Bootstrap Hover Image Gallery**][23-32]
 * [**AlloyFinger**][23-33] - 腾讯 AlloyTeam 出品的超级小的 Web 手势库
+* [**SpinKit**][23-34] - CSS Loading 动画的集合
 
 [⬆️ 返回首页](#目录)
 
@@ -1064,6 +1065,7 @@
 [23-31]:	https://github.com/hasinhayder/ImageCaptionHoverAnimation
 [23-32]:	http://miketricking.github.io/dist/
 [23-33]:	https://github.com/AlloyTeam/AlloyFinger
+[23-33]:	https://github.com/tobiasahlin/SpinKit
 
 [24-1]:	http://mockjs.com
 [24-2]:	https://www.easy-mock.com/
