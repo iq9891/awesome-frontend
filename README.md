@@ -286,6 +286,7 @@
 * [**qrious**][8-39] - 用于使用 Canvas 生成二维码
 * [**qart.js**][8-40] - 生成艺术二维码
 * [**QRCode.js**][8-41] - QRCode.js 是用于制作 QRCode 的 JavaScript 库
+* [**mousetrap**][8-42] - 用于处理键盘快捷键的简单的 JavaScript 库
 
 [⬆️ 返回首页](#目录)
 
@@ -817,6 +818,7 @@
 [8-39]:	https://github.com/neocotic/qrious
 [8-40]:	https://github.com/kciter/qart.js
 [8-41]:	https://github.com/davidshimjs/qrcodejs
+[8-42]:	https://github.com/ccampbell/mousetrap
 
 [9-1]:	https://github.com/reduxjs/redux
 [9-2]:	https://github.com/mweststrate/immer
