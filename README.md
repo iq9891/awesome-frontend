@@ -242,6 +242,7 @@
 * [**antvis**][7-2] - 数据可视化集合
 * [**ant-motion**][7-3] - 动画说明和Ant设计组件
 * [**@umijs/hooks**][7-4] - React Hooks 库
+* [**qiankun**][7-5] - 为微型前端提供快速，简单和完整的解决方案
 
 ## 工具类
 
@@ -776,7 +777,7 @@
 [7-2]:	https://github.com/antvis
 [7-3]:	https://github.com/ant-design/ant-motion
 [7-4]:	https://github.com/umijs/hooks
-
+[7-5]:	https://github.com/umijs/qiankun
 
 [8-1]:	https://github.com/ReactTraining/history
 [8-2]:	https://github.com/pillarjs/path-to-regexp
