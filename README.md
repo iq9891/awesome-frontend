@@ -289,6 +289,7 @@
 * [**QRCode.js**][8-41] - QRCode.js 是用于制作 QRCode 的 JavaScript 库
 * [**mousetrap**][8-42] - 用于处理键盘快捷键的简单的 JavaScript 库
 * [**async**][8-43] - Async 在 NodeJS 和浏览器的实现
+* [**color**][8-44] - JavaScript 颜色转换和操作库
 
 [⬆️ 返回首页](#目录)
 
@@ -822,6 +823,7 @@
 [8-41]:	https://github.com/davidshimjs/qrcodejs
 [8-42]:	https://github.com/ccampbell/mousetrap
 [8-43]:	https://github.com/caolan/async
+[8-44]:	https://github.com/Qix-/color
 
 [9-1]:	https://github.com/reduxjs/redux
 [9-2]:	https://github.com/mweststrate/immer
