@@ -142,6 +142,7 @@
 * [**ColorUI**][4-4-4] - 鲜亮的高饱和色彩，专注视觉的小程序组件库
 * [**Gitter**][4-4-5] - 采用 Taro 框架 + Taro UI 进行开发的 demo ， 可能是目前颜值最高的 GitHub 微信小程序客户端
 * [**Taro**][4-4-6] - 多端统一开发框架，支持用 React 的开发方式编写一次代码
+* [**Painter**][4-4-7] - 小程序生成图片库，轻松通过 json 方式绘制一张可以发到朋友圈的图片
 
 [⬆️ 返回首页](#目录)
 
@@ -697,6 +698,7 @@
 [4-4-4]:	https://github.com/weilanwl/ColorUI
 [4-4-5]:	https://github.com/huangjianke/Gitter
 [4-4-6]:	https://github.com/NervJS/taro
+[4-4-7]:	https://github.com/Kujiale-Mobile/Painter
 
 [4-5-1]:	https://github.com/facebook/react
 [4-5-2]:	https://github.com/vuejs/vue
