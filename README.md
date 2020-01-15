@@ -113,6 +113,7 @@
 * [**phaser**][4-1-11] - 一个快速、免费、开源的 HTML5 游戏框架
 * [**lufylegend.js**][4-1-12]
 * [**pixi.js**][4-1-13]
+* [**AnnieJS**][4-1-14] - 2D 动画引擎， 可以转换 Flash ，可以转换 MP4
 
 [⬆️ 返回首页](#目录)
 
@@ -674,6 +675,7 @@
 [4-1-11]:	https://github.com/photonstorm/phaser
 [4-1-12]:	https://github.com/lufylegend/lufylegend.js
 [4-1-13]:	https://github.com/pixijs/pixi.js
+[4-1-14]:	https://github.com/flash2x/AnnieJS
 
 [4-2-1]:	https://github.com/apache/incubator-weex
 [4-2-2]:	https://github.com/facebook/react-native
