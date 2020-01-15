@@ -601,8 +601,8 @@
 ## 源码分析
 
 * [**vue-analysis**][26-1] - vue 2.x 源码分析
-* [**vue-design**][26-2] - vue 2.x 源码分析
-
+* [**vue-design**][26-2] - vue 2.x | 3.x 源码分析
+* [**learnVue**][26-3] - vue 源码分析
 
 ## 其他
 
@@ -1088,3 +1088,4 @@
 
 [26-1]:	https://github.com/ustbhuangyi/vue-analysis
 [26-2]:	https://github.com/HcySunYang/vue-design
+[26-3]:	https://github.com/answershuto/learnVue
