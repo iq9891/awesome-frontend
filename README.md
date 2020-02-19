@@ -246,6 +246,7 @@
 * [**ant-motion**][7-3] - 动画说明和Ant设计组件
 * [**@umijs/hooks**][7-4] - React Hooks 库
 * [**qiankun**][7-5] - 为微型前端提供快速，简单和完整的解决方案
+* [**F2**][7-6] - 一个专注于移动，开箱即用的可视化解决方案，完美支持 H5 环境同时兼容多种环境（node, 小程序，weex）
 
 ## 工具类
 
@@ -786,6 +787,7 @@
 [7-3]:	https://github.com/ant-design/ant-motion
 [7-4]:	https://github.com/umijs/hooks
 [7-5]:	https://github.com/umijs/qiankun
+[7-6]:	https://github.com/antvis/f2
 
 [8-1]:	https://github.com/ReactTraining/history
 [8-2]:	https://github.com/pillarjs/path-to-regexp
