@@ -180,6 +180,7 @@
 * [**react-jsonschema-form**][5-11] - A React component for building Web forms from JSON Schema
 * [**react-dates**][5-12] - 适用于网络的易于国际化，移动友好的日期选择器库
 * [**theme-ui**][5-13] - 根据基于约束的设计原则构建一致的主题化React应用
+* [**use-sound**][5-14] - 播放音频的钩子
 
 [⬆️ 返回首页](#目录)
 
@@ -734,6 +735,7 @@
 [5-11]:	https://github.com/mozilla-services/react-jsonschema-form
 [5-12]:	https://github.com/airbnb/react-dates
 [5-13]:	https://github.com/system-ui/theme-ui
+[5-14]:	https://github.com/joshwcomeau/use-sound
 
 [6-1-1]:	https://github.com/quasarframework/quasar
 [6-1-2]:	https://github.com/vuematerial/vue-material
