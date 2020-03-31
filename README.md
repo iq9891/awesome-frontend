@@ -427,6 +427,7 @@
 * [**medium-editor**][18-15] - Vue.js 官方推荐支持 Vue 的编辑器
 * [**slate**][18-16] - 一个完全可定制的框架，用于构建富文本编辑器
 * [**tiptap**][18-17] - Vue 的编辑器
+* [**prosemirror**][18-18] - 富文本编辑器
 
 [⬆️ 返回首页](#目录)
 
@@ -967,6 +968,7 @@
 [18-15]:	https://github.com/yabwe/medium-editor
 [18-16]:	https://github.com/ianstormtaylor/slate
 [18-17]:	https://github.com/heyscrumpy/tiptap
+[18-18]:	https://github.com/ProseMirror/prosemirror
 
 [19-1-1]:	https://jsfiddle.net/
 [19-1-2]:	http://plnkr.co
