@@ -237,6 +237,7 @@
 * [**vue2-animate**][6-2-23] - 集成 Animate.css 的动画库
 * [**vuetensils**][6-2-24] - 一些常用组件
 * [**easyjs**][6-2-25] - 拥有 Egg Vue SSR 服务端渲染
+* [**vue-next-webpack-preview**][6-2-26] - vue 3.0 打包预览
 
 [⬆️ 返回首页](#目录)
 
@@ -784,6 +785,7 @@
 [6-2-23]:	https://github.com/asika32764/vue2-animate
 [6-2-24]:	https://github.com/stegosource/vuetensils
 [6-2-25]:	https://github.com/easy-team/easyjs
+[6-2-26]:	https://github.com/vuejs/vue-next-webpack-preview
 
 [7-1]:	https://github.com/ant-design/ant-design
 [7-2]:	https://github.com/antvis
