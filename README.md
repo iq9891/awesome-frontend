@@ -389,6 +389,7 @@
 * [**ajv**][14-20] - 参数校验
 * [**ink**][14-21] - 用 React 处理命令行输出
 * [**figures**][14-22] - ✔︎ 等特殊字符，做了 windows 兼容处理
+* [**navi**][14-23] - 用于命令行的交互式备忘单工具
 
 [⬆️ 返回首页](#目录)
 
@@ -913,6 +914,7 @@
 [14-20]:	https://github.com/epoberezkin/ajv
 [14-21]:	https://github.com/vadimdemedes/ink
 [14-22]:	https://github.com/sindresorhus/figures
+[14-23]:	https://github.com/denisidoro/navi
 
 [15-1]:	https://github.com/github/fetch
 [15-2]:	https://github.com/sindresorhus/got
