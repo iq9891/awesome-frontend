@@ -65,6 +65,7 @@
 * [**pikapkg/web**][1-17] - 浏览器里跑 npm 依赖，面向现代浏览器
 * [**lebab/lebab**][1-18] - 把 es5 代码转成 es6，反向 babel
 * [**palmerhq/tsdx**][1-19] - Zero-config CLI for TypeScript package development
+* [**snowpack**][1-20] - 现代Web的更快构建系统
 
 [⬆️ 返回首页](#目录)
 
@@ -648,6 +649,7 @@
 [1-17]:	https://github.com/pikapkg/web
 [1-18]:	https://github.com/lebab/lebab
 [1-19]:	https://github.com/palmerhq/tsdx
+[1-20]:	https://github.com/pikapkg/snowpack
 
 [2-1]:	https://github.com/mzgoddard/hard-source-webpack-plugin
 [2-2]:	https://github.com/smooth-code/svgr
