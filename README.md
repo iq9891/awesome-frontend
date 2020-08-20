@@ -451,6 +451,11 @@
 * [**snyk.io**][17-11] - 前端依赖检测
 * [**codecov.io**][17-12] - 测试覆盖率报告
 
+## 部署
+
+* [**netlify**][27-1] - 在全球范围内部署
+* [**walle**][27-2] - 在全球范围内部署
+
 ## 在线工具
 
 ### 在线编程
@@ -1109,3 +1114,6 @@
 [26-1]:	https://github.com/ustbhuangyi/vue-analysis
 [26-2]:	https://github.com/HcySunYang/vue-design
 [26-3]:	https://github.com/answershuto/learnVue
+
+[27-1]:	https://www.netlify.com/
+[27-2]:	http://walle-web.io/
