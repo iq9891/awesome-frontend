@@ -134,6 +134,7 @@
 * [**jQuery Mobile**][4-3-5]
 * [**Layui**][4-3-6]
 * [**topcoat**][4-3-7]
+* [**You-need-to-know-css**][4-3-8] CSS 常用代码段以及有趣的 CSS 动画效果的实现
 
 ### 小程序 相关
 
@@ -706,6 +707,7 @@
 [4-3-5]:	http://jquerymobile.com/
 [4-3-6]:	https://github.com/sentsin/layui/
 [4-3-7]:	https://github.com/topcoat/topcoat
+[4-3-8]:	https://github.com/l-hammer/You-need-to-know-css
 
 [4-4-1]:	https://github.com/Meituan-Dianping/mpvue
 [4-4-2]:	https://github.com/Tencent/wepy
