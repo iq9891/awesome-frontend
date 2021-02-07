@@ -619,6 +619,7 @@
 * [**vue-analysis**][26-1] - vue 2.x 源码分析
 * [**vue-design**][26-2] - vue 2.x | 3.x 源码分析
 * [**learnVue**][26-3] - vue 源码分析
+* [**mini-vue**][26-4] - 实现最简 vue3 模型，用于深入学习 vue 3
 
 ## 其他
 
@@ -1116,6 +1117,7 @@
 [26-1]:	https://github.com/ustbhuangyi/vue-analysis
 [26-2]:	https://github.com/HcySunYang/vue-design
 [26-3]:	https://github.com/answershuto/learnVue
+[26-4]:	https://github.com/cuixiaorui/mini-vue
 
 [27-1]:	https://www.netlify.com/
 [27-2]:	http://walle-web.io/
