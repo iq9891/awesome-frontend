@@ -17,6 +17,7 @@
 - [Vue 相关库](#Vue-相关库)
   - [UI 库](#UI-库)
   - [其他](#其他)
+- [Flutter 相关库](#Flutter-相关库)
 - [阿里系](#阿里系)
 - [工具类](#工具类)
 - [数据流](#数据流)
@@ -240,6 +241,12 @@
 * [**vuetensils**][6-2-24] - 一些常用组件
 * [**easyjs**][6-2-25] - 拥有 Egg Vue SSR 服务端渲染
 * [**vue-next-webpack-preview**][6-2-26] - vue 3.0 打包预览
+
+[⬆️ 返回首页](#目录)
+
+## Flutter-相关库
+
+* [**flutter_picker**][28-1] - Flutter Picker插件
 
 [⬆️ 返回首页](#目录)
 
@@ -1121,3 +1128,5 @@
 
 [27-1]:	https://www.netlify.com/
 [27-2]:	http://walle-web.io/
+
+[28-1]:	https://github.com/yangyxd/flutter_picker
