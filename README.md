@@ -242,6 +242,7 @@
 * [**easyjs**][6-2-25] - 拥有 Egg Vue SSR 服务端渲染
 * [**vue-next-webpack-preview**][6-2-26] - vue 3.0 打包预览
 * [**vue-vben-admin**][6-2-27] - vue 3.0 用 vite 的 demo 项目
+* [**vue-drag-resize**][6-2-28] - vue 2.0&3.0 拖拽改变大小位置
 
 [⬆️ 返回首页](#目录)
 
@@ -807,6 +808,7 @@
 [6-2-25]:	https://github.com/easy-team/easyjs
 [6-2-26]:	https://github.com/vuejs/vue-next-webpack-preview
 [6-2-27]:	https://github.com/anncwb/vue-vben-admin
+[6-2-28]:	https://github.com/kirillmurashov/vue-drag-resize
 
 [7-1]:	https://github.com/ant-design/ant-design
 [7-2]:	https://github.com/antvis
