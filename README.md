@@ -250,6 +250,7 @@
 
 * [**flutter_picker**][28-1] - Flutter Picker插件
 * [**implicitly_animated_reorderable_list**][28-2] - Flutter 可拖拽列表插件
+* [**flutter_zoom_drawer**][28-3] - Flutter 抽屉导航插件
 
 [⬆️ 返回首页](#目录)
 
@@ -1138,3 +1139,4 @@
 
 [28-1]:	https://github.com/yangyxd/flutter_picker
 [28-2]:	https://github.com/bnxm/implicitly_animated_reorderable_list
+[28-3]:	https://github.com/medyas/flutter_zoom_drawer
