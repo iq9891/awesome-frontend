@@ -504,6 +504,7 @@
 * [**faviator**][19-4-11] - 一个生成图标的库
 * [**emoji**][19-4-12] - emoji 总览
 * [**excalidraw**][19-4-13] - 素描手绘图
+* [**JimuReport**][19-4-14] - 一款免费的数据可视化工具
 
 [⬆️ 返回首页](#目录)
 
@@ -1026,6 +1027,7 @@
 [19-4-11]:	https://github.com/faviator/faviator
 [19-4-12]:	https://github.com/muan/emoji
 [19-4-13]:	https://github.com/excalidraw/excalidraw
+[19-4-14]:	https://github.com/zhangdaiscott/JimuReport
 
 [20-1]:	https://github.com/google/code-prettify
 [20-2]:	https://highlightjs.org/
