@@ -249,6 +249,7 @@
 ## Flutter-相关库
 
 * [**flutter_picker**][28-1] - Flutter Picker插件
+* [**implicitly_animated_reorderable_list**][28-2] - Flutter 可拖拽列表插件
 
 [⬆️ 返回首页](#目录)
 
@@ -1136,3 +1137,4 @@
 [27-2]:	http://walle-web.io/
 
 [28-1]:	https://github.com/yangyxd/flutter_picker
+[28-2]:	https://github.com/bnxm/implicitly_animated_reorderable_list
