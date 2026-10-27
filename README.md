@@ -494,6 +494,7 @@
 
 ### 其他在线工具
 
+* [**ImgFlow**][19-4-15] - 浏览器端图片压缩与格式转换（PNG/JPG/HEIC/WebP/AVIF；本地处理）
 * [**正则**][19-4-1]
 * [**文件对比**][19-4-2]
 * [**办公软件(文档、表格、幻灯片、表单)**][19-4-3]
@@ -1031,6 +1032,7 @@
 [19-4-12]:	https://github.com/muan/emoji
 [19-4-13]:	https://github.com/excalidraw/excalidraw
 [19-4-14]:	https://github.com/zhangdaiscott/JimuReport
+[19-4-15]:	https://imgflow.taoliapp.com/en/
 
 [20-1]:	https://github.com/google/code-prettify
 [20-2]:	https://highlightjs.org/
